@@ -1,0 +1,187 @@
+[{
+    "attributes": {
+        "auditingPolicy": [
+            "\u0000\u0001"
+        ],
+        "creationTime": [
+            "2019-03-12 03:45:05.858904+00:00"
+        ],
+        "dSASignature": [
+            {
+                "encoded": "AQAAACgAAAAAAAAAAAAAAAAAAAAAAAAAAlolB6DihE6UW8hxIU97ew==",
+                "encoding": "base64"
+            }
+        ],
+        "dSCorePropagationData": [
+            "1601-01-01 00:00:00+00:00"
+        ],
+        "dc": [
+            "hawee"
+        ],
+        "distinguishedName": [
+            "DC=hawee,DC=local"
+        ],
+        "fSMORoleOwner": [
+            "CN=NTDS Settings,CN=HO-DC01-SV,CN=Servers,CN=Default-First-Site-Name,CN=Sites,CN=Configuration,DC=hawee,DC=local"
+        ],
+        "forceLogoff": [
+            -9223372036854775808
+        ],
+        "gPLink": [
+            "[LDAP://cn={FC9A0993-65FD-4C32-B93B-4015263FB55F},cn=policies,cn=system,DC=hawee,DC=local;2][LDAP://cn={D5E4E1D1-D380-4517-BAFF-BA2F7D56ADE8},cn=policies,cn=system,DC=hawee,DC=local;2][LDAP://cn={44B5BBE9-313B-4DD2-BE67-DB83FB389734},cn=policies,cn=system,DC=hawee,DC=local;2][LDAP://CN={7E700F86-E70E-47CA-BA48-9C123EB926C4},CN=Policies,CN=System,DC=hawee,DC=local;0][LDAP://CN={7F9362C4-9D86-4FDC-97B5-5093C1C9BA7A},CN=Policies,CN=System,DC=hawee,DC=local;0][LDAP://CN={111BF78F-DA22-4D47-8F5A-AEF0CC5F9902},CN=Policies,CN=System,DC=hawee,DC=local;0][LDAP://cn={509EB5EE-9B1F-4163-BEB3-E4E249595534},cn=policies,cn=system,DC=hawee,DC=local;0][LDAP://CN={31B2F340-016D-11D2-945F-00C04FB984F9},CN=Policies,CN=System,DC=hawee,DC=local;0][LDAP://CN={298D957C-664A-4104-ABFD-5F98C9592725},CN=Policies,CN=System,DC=hawee,DC=local;0][LDAP://CN={B8F76385-837C-46A6-8E56-3060700F8B24},CN=Policies,CN=System,DC=hawee,DC=local;0]"
+        ],
+        "instanceType": [
+            5
+        ],
+        "isCriticalSystemObject": [
+            true
+        ],
+        "lockOutObservationWindow": [
+            -18000000000
+        ],
+        "lockoutDuration": [
+            -18000000000
+        ],
+        "lockoutThreshold": [
+            20
+        ],
+        "masteredBy": [
+            "CN=NTDS Settings,CN=HO-DC02-SV,CN=Servers,CN=Default-First-Site-Name,CN=Sites,CN=Configuration,DC=hawee,DC=local",
+            "CN=NTDS Settings,CN=HO-DC01-SV,CN=Servers,CN=Default-First-Site-Name,CN=Sites,CN=Configuration,DC=hawee,DC=local"
+        ],
+        "maxPwdAge": [
+            -155520000000000
+        ],
+        "minPwdAge": [
+            0
+        ],
+        "minPwdLength": [
+            6
+        ],
+        "modifiedCount": [
+            1
+        ],
+        "modifiedCountAtLastProm": [
+            0
+        ],
+        "ms-DS-MachineAccountQuota": [
+            10
+        ],
+        "msDS-AllUsersTrustQuota": [
+            1000
+        ],
+        "msDS-Behavior-Version": [
+            6
+        ],
+        "msDS-IsDomainFor": [
+            "CN=NTDS Settings,CN=HO-DC02-SV,CN=Servers,CN=Default-First-Site-Name,CN=Sites,CN=Configuration,DC=hawee,DC=local",
+            "CN=NTDS Settings,CN=HO-DC01-SV,CN=Servers,CN=Default-First-Site-Name,CN=Sites,CN=Configuration,DC=hawee,DC=local"
+        ],
+        "msDS-NcType": [
+            0
+        ],
+        "msDS-PerUserTrustQuota": [
+            1
+        ],
+        "msDS-PerUserTrustTombstonesQuota": [
+            10
+        ],
+        "msDs-masteredBy": [
+            "CN=NTDS Settings,CN=HO-DC02-SV,CN=Servers,CN=Default-First-Site-Name,CN=Sites,CN=Configuration,DC=hawee,DC=local",
+            "CN=NTDS Settings,CN=HO-DC01-SV,CN=Servers,CN=Default-First-Site-Name,CN=Sites,CN=Configuration,DC=hawee,DC=local"
+        ],
+        "nTMixedDomain": [
+            0
+        ],
+        "name": [
+            "hawee"
+        ],
+        "nextRid": [
+            1000
+        ],
+        "objectCategory": [
+            "CN=Domain-DNS,CN=Schema,CN=Configuration,DC=hawee,DC=local"
+        ],
+        "objectClass": [
+            "top",
+            "domain",
+            "domainDNS"
+        ],
+        "objectGUID": [
+            "{337fd039-fffe-465f-9b05-f0132e19bf17}"
+        ],
+        "objectSid": [
+            "S-1-5-21-2284526575-3220193634-2291435605"
+        ],
+        "otherWellKnownObjects": [
+            "B:32:1EB93889E40C45DF9F0C64D23BBB6237:CN=Managed Service Accounts,DC=hawee,DC=local"
+        ],
+        "pwdHistoryLength": [
+            1
+        ],
+        "pwdProperties": [
+            1
+        ],
+        "rIDManagerReference": [
+            "CN=RID Manager$,CN=System,DC=hawee,DC=local"
+        ],
+        "replUpToDateVector": [
+            {
+                "encoded": "AgAAAAAAAAADAAAAAAAAANlngx+8jctJsPFVZf2L261WbroCAAAAAFlamhIDAAAA0BS00rEu/E6tx09rGyPY9RxQBgAAAAAAVt9nDgMAAAAmKkb2dtTMTpesD6PmdIiEFAAFAAAAAAD3amUOAwAAAA==",
+                "encoding": "base64"
+            }
+        ],
+        "repsFrom": [
+            {
+                "encoded": "AgAAAAAAAADsAQAAAAAAAFlamhIDAAAAWVqaEgMAAAAAAAAA2AAAABQBAABwAAAAERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERAAAAAFJuugIAAAAAAAAAAAAAAABSbroCAAAAAAJaJQeg4oROlFvIcSFPe3vZZ4MfvI3LSbDxVWX9i9utAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAFAEAABgAAAAAAAAAiAAAAAAAAAAAAAAAMAA3ADIANQA1AGEAMAAyAC0AZQAyAGEAMAAtADQAZQA4ADQALQA5ADQANQBiAC0AYwA4ADcAMQAyADEANABmADcAYgA3AGIALgBfAG0AcwBkAGMAcwAuAGgAYQB3AGUAZQAuAGwAbwBjAGEAbAAAADAANwAyADUANQBhADAAMgAtAGUAMgBhADAALQA0AGUAOAA0AC0AOQA0ADUAYgAtAGMAOAA3ADEAMgAxADQAZgA3AGIANwBiAC4AXwBtAHMAZABjAHMALgBoAGEAdwBlAGUALgBsAG8AYwBhAGwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "encoding": "base64"
+            }
+        ],
+        "repsTo": [
+            {
+                "encoded": "AgAAAAAAAADsAQAAAAAAAFpXmhIDAAAAWleaEgMAAAAAAAAA2AAAABQBAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAJaJQeg4oROlFvIcSFPe3sAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAFAEAABgAAAAAAAAAiAAAAAAAAAAAAAAAMAA3ADIANQA1AGEAMAAyAC0AZQAyAGEAMAAtADQAZQA4ADQALQA5ADQANQBiAC0AYwA4ADcAMQAyADEANABmADcAYgA3AGIALgBfAG0AcwBkAGMAcwAuAGgAYQB3AGUAZQAuAGwAbwBjAGEAbAAAADAANwAyADUANQBhADAAMgAtAGUAMgBhADAALQA0AGUAOAA0AC0AOQA0ADUAYgAtAGMAOAA3ADEAMgAxADQAZgA3AGIANwBiAC4AXwBtAHMAZABjAHMALgBoAGEAdwBlAGUALgBsAG8AYwBhAGwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "encoding": "base64"
+            }
+        ],
+        "serverState": [
+            1
+        ],
+        "subRefs": [
+            "DC=ForestDnsZones,DC=hawee,DC=local",
+            "DC=DomainDnsZones,DC=hawee,DC=local",
+            "CN=Configuration,DC=hawee,DC=local"
+        ],
+        "systemFlags": [
+            -1946157056
+        ],
+        "uASCompat": [
+            1
+        ],
+        "uSNChanged": [
+            117047877
+        ],
+        "uSNCreated": [
+            4099
+        ],
+        "wellKnownObjects": [
+            "B:32:6227F0AF1FC2410D8E3BB10615BB5B0F:CN=NTDS Quotas,DC=hawee,DC=local",
+            "B:32:F4BE92A4C777485E878E9421D53087DB:CN=Microsoft,CN=Program Data,DC=hawee,DC=local",
+            "B:32:09460C08AE1E4A4EA0F64AEE7DAA1E5A:CN=Program Data,DC=hawee,DC=local",
+            "B:32:22B70C67D56E4EFB91E9300FCA3DC1AA:CN=ForeignSecurityPrincipals,DC=hawee,DC=local",
+            "B:32:18E2EA80684F11D2B9AA00C04F79F805:CN=Deleted Objects,DC=hawee,DC=local",
+            "B:32:2FBAC1870ADE11D297C400C04FD8D5CD:CN=Infrastructure,DC=hawee,DC=local",
+            "B:32:AB8153B7768811D1ADED00C04FD8D5CD:CN=LostAndFound,DC=hawee,DC=local",
+            "B:32:AB1D30F3768811D1ADED00C04FD8D5CD:CN=System,DC=hawee,DC=local",
+            "B:32:A361B2FFFFD211D1AA4B00C04FD7D83A:OU=Domain Controllers,DC=hawee,DC=local",
+            "B:32:AA312825768811D1ADED00C04FD8D5CD:CN=Computers,DC=hawee,DC=local",
+            "B:32:A9D1CA15768811D1ADED00C04FD8D5CD:CN=Users,DC=hawee,DC=local"
+        ],
+        "whenChanged": [
+            "2019-03-13 16:05:24+00:00"
+        ],
+        "whenCreated": [
+            "2016-09-09 08:28:33+00:00"
+        ]
+    },
+    "dn": "DC=hawee,DC=local"
+}]

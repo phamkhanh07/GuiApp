@@ -1,0 +1,5691 @@
+[{
+    "attributes": {
+        "cn": [
+            "KT-HUYENNT-ME"
+        ],
+        "dNSHostName": [
+            "KT-HuyenNT-ME.hawee.local"
+        ],
+        "description": [],
+        "lastLogon": [
+            "2019-03-13 09:23:36.392092+00:00"
+        ],
+        "objectClass": [
+            "top",
+            "person",
+            "organizationalPerson",
+            "user",
+            "computer"
+        ],
+        "objectSid": [
+            "S-1-5-21-2284526575-3220193634-2291435605-8144"
+        ],
+        "operatingSystem": [
+            "Windows 10 Pro"
+        ],
+        "operatingSystemServicePack": [],
+        "operatingSystemVersion": [
+            "10.0 (17763)"
+        ],
+        "sAMAccountName": [
+            "KT-HUYENNT-ME$"
+        ],
+        "userAccountControl": [
+            4096
+        ],
+        "whenCreated": [
+            "2019-02-19 07:19:09+00:00"
+        ]
+    },
+    "dn": "CN=KT-HUYENNT-ME,CN=Computers,DC=hawee,DC=local"
+},{
+    "attributes": {
+        "cn": [
+            "HW-PC-KT"
+        ],
+        "dNSHostName": [
+            "HW-PC-KT.hawee.local"
+        ],
+        "description": [],
+        "lastLogon": [
+            "2019-02-27 08:14:19.852964+00:00"
+        ],
+        "objectClass": [
+            "top",
+            "person",
+            "organizationalPerson",
+            "user",
+            "computer"
+        ],
+        "objectSid": [
+            "S-1-5-21-2284526575-3220193634-2291435605-8632"
+        ],
+        "operatingSystem": [
+            "Windows 10 Enterprise 2016 LTSB"
+        ],
+        "operatingSystemServicePack": [],
+        "operatingSystemVersion": [
+            "10.0 (14393)"
+        ],
+        "sAMAccountName": [
+            "HW-PC-KT$"
+        ],
+        "userAccountControl": [
+            4096
+        ],
+        "whenCreated": [
+            "2018-12-24 08:44:12+00:00"
+        ]
+    },
+    "dn": "CN=HW-PC-KT,CN=Computers,DC=hawee,DC=local"
+},{
+    "attributes": {
+        "cn": [
+            "HO-APPKTME-SV"
+        ],
+        "dNSHostName": [
+            "HO-APPKTME-SV.hawee.local"
+        ],
+        "description": [],
+        "lastLogon": [
+            "2019-03-13 18:09:04.667904+00:00"
+        ],
+        "objectClass": [
+            "top",
+            "person",
+            "organizationalPerson",
+            "user",
+            "computer"
+        ],
+        "objectSid": [
+            "S-1-5-21-2284526575-3220193634-2291435605-7573"
+        ],
+        "operatingSystem": [
+            "Windows Server 2012 R2 Standard"
+        ],
+        "operatingSystemServicePack": [],
+        "operatingSystemVersion": [
+            "6.3 (9600)"
+        ],
+        "sAMAccountName": [
+            "HO-APPKTME-SV$"
+        ],
+        "userAccountControl": [
+            4096
+        ],
+        "whenCreated": [
+            "2018-12-22 10:19:19+00:00"
+        ]
+    },
+    "dn": "CN=HO-APPKTME-SV,CN=Computers,DC=hawee,DC=local"
+},{
+    "attributes": {
+        "cn": [
+            "HO-DBKTME-SV"
+        ],
+        "dNSHostName": [
+            "HO-DBKTME-SV.hawee.local"
+        ],
+        "description": [],
+        "lastLogon": [
+            "2019-03-13 00:34:18.667007+00:00"
+        ],
+        "objectClass": [
+            "top",
+            "person",
+            "organizationalPerson",
+            "user",
+            "computer"
+        ],
+        "objectSid": [
+            "S-1-5-21-2284526575-3220193634-2291435605-8626"
+        ],
+        "operatingSystem": [
+            "Windows Server 2012 R2 Standard"
+        ],
+        "operatingSystemServicePack": [],
+        "operatingSystemVersion": [
+            "6.3 (9600)"
+        ],
+        "sAMAccountName": [
+            "HO-DBKTME-SV$"
+        ],
+        "userAccountControl": [
+            4096
+        ],
+        "whenCreated": [
+            "2018-12-22 10:16:59+00:00"
+        ]
+    },
+    "dn": "CN=HO-DBKTME-SV,CN=Computers,DC=hawee,DC=local"
+},{
+    "attributes": {
+        "cn": [
+            "HO-DBKTIDC-SV"
+        ],
+        "dNSHostName": [
+            "HO-DBKTIDC-SV.hawee.local"
+        ],
+        "description": [],
+        "lastLogon": [
+            "2019-03-13 12:13:02.416937+00:00"
+        ],
+        "objectClass": [
+            "top",
+            "person",
+            "organizationalPerson",
+            "user",
+            "computer"
+        ],
+        "objectSid": [
+            "S-1-5-21-2284526575-3220193634-2291435605-7572"
+        ],
+        "operatingSystem": [
+            "Windows Server 2012 R2 Standard"
+        ],
+        "operatingSystemServicePack": [],
+        "operatingSystemVersion": [
+            "6.3 (9600)"
+        ],
+        "sAMAccountName": [
+            "HO-DBKTIDC-SV$"
+        ],
+        "userAccountControl": [
+            4096
+        ],
+        "whenCreated": [
+            "2018-12-22 10:15:21+00:00"
+        ]
+    },
+    "dn": "CN=HO-DBKTIDC-SV,CN=Computers,DC=hawee,DC=local"
+},{
+    "attributes": {
+        "cn": [
+            "HO-APPKTIDC-SV"
+        ],
+        "dNSHostName": [
+            "HO-APPKTIDC-SV.hawee.local"
+        ],
+        "description": [],
+        "lastLogon": [
+            "2019-03-13 18:21:48.029215+00:00"
+        ],
+        "objectClass": [
+            "top",
+            "person",
+            "organizationalPerson",
+            "user",
+            "computer"
+        ],
+        "objectSid": [
+            "S-1-5-21-2284526575-3220193634-2291435605-7571"
+        ],
+        "operatingSystem": [
+            "Windows Server 2012 R2 Standard"
+        ],
+        "operatingSystemServicePack": [],
+        "operatingSystemVersion": [
+            "6.3 (9600)"
+        ],
+        "sAMAccountName": [
+            "HO-APPKTIDC-SV$"
+        ],
+        "userAccountControl": [
+            4096
+        ],
+        "whenCreated": [
+            "2018-12-22 10:10:56+00:00"
+        ]
+    },
+    "dn": "CN=HO-APPKTIDC-SV,CN=Computers,DC=hawee,DC=local"
+},{
+    "attributes": {
+        "cn": [
+            "HW-PC-TEST"
+        ],
+        "dNSHostName": [
+            "HW-PC-TEST.hawee.local"
+        ],
+        "description": [],
+        "lastLogon": [
+            "2018-12-26 07:52:11.507923+00:00"
+        ],
+        "objectClass": [
+            "top",
+            "person",
+            "organizationalPerson",
+            "user",
+            "computer"
+        ],
+        "objectSid": [
+            "S-1-5-21-2284526575-3220193634-2291435605-8625"
+        ],
+        "operatingSystem": [
+            "Windows 10 Enterprise 2016 LTSB"
+        ],
+        "operatingSystemServicePack": [],
+        "operatingSystemVersion": [
+            "10.0 (14393)"
+        ],
+        "sAMAccountName": [
+            "HW-PC-TEST$"
+        ],
+        "userAccountControl": [
+            4098
+        ],
+        "whenCreated": [
+            "2018-12-22 01:33:22+00:00"
+        ]
+    },
+    "dn": "CN=HW-PC-TEST,CN=Computers,DC=hawee,DC=local"
+},{
+    "attributes": {
+        "cn": [
+            "HO-EX1-SV"
+        ],
+        "dNSHostName": [
+            "HO-EX1-SV.hawee.local"
+        ],
+        "description": [],
+        "lastLogon": [
+            "2019-03-14 01:43:30.250954+00:00"
+        ],
+        "objectClass": [
+            "top",
+            "person",
+            "organizationalPerson",
+            "user",
+            "computer"
+        ],
+        "objectSid": [
+            "S-1-5-21-2284526575-3220193634-2291435605-8613"
+        ],
+        "operatingSystem": [
+            "Windows Server 2012 R2 Standard"
+        ],
+        "operatingSystemServicePack": [],
+        "operatingSystemVersion": [
+            "6.3 (9600)"
+        ],
+        "sAMAccountName": [
+            "HO-EX1-SV$"
+        ],
+        "userAccountControl": [
+            4096
+        ],
+        "whenCreated": [
+            "2018-12-15 03:11:31+00:00"
+        ]
+    },
+    "dn": "CN=HO-EX1-SV,CN=Computers,DC=hawee,DC=local"
+},{
+    "attributes": {
+        "cn": [
+            "HW-LOG-SV"
+        ],
+        "dNSHostName": [
+            "HW-LOG-SV.hawee.local"
+        ],
+        "description": [],
+        "lastLogon": [],
+        "objectClass": [
+            "top",
+            "person",
+            "organizationalPerson",
+            "user",
+            "computer"
+        ],
+        "objectSid": [
+            "S-1-5-21-2284526575-3220193634-2291435605-7564"
+        ],
+        "operatingSystem": [
+            "Windows Server 2012 R2 Standard"
+        ],
+        "operatingSystemServicePack": [],
+        "operatingSystemVersion": [
+            "6.3 (9600)"
+        ],
+        "sAMAccountName": [
+            "HW-LOG-SV$"
+        ],
+        "userAccountControl": [
+            4096
+        ],
+        "whenCreated": [
+            "2018-12-13 09:40:40+00:00"
+        ]
+    },
+    "dn": "CN=HW-LOG-SV,CN=Computers,DC=hawee,DC=local"
+},{
+    "attributes": {
+        "cn": [
+            "IT-PC01"
+        ],
+        "dNSHostName": [
+            "IT-PC01.hawee.local"
+        ],
+        "description": [],
+        "lastLogon": [
+            "2019-03-14 02:23:27.204304+00:00"
+        ],
+        "objectClass": [
+            "top",
+            "person",
+            "organizationalPerson",
+            "user",
+            "computer"
+        ],
+        "objectSid": [
+            "S-1-5-21-2284526575-3220193634-2291435605-7561"
+        ],
+        "operatingSystem": [
+            "Windows 10 Enterprise"
+        ],
+        "operatingSystemServicePack": [],
+        "operatingSystemVersion": [
+            "10.0 (17763)"
+        ],
+        "sAMAccountName": [
+            "IT-PC01$"
+        ],
+        "userAccountControl": [
+            4096
+        ],
+        "whenCreated": [
+            "2018-12-11 08:17:17+00:00"
+        ]
+    },
+    "dn": "CN=IT-PC01,CN=Computers,DC=hawee,DC=local"
+},{
+    "attributes": {
+        "cn": [
+            "EXREPORT"
+        ],
+        "dNSHostName": [
+            "EXREPORT.hawee.local"
+        ],
+        "description": [],
+        "lastLogon": [
+            "2018-12-14 09:27:10.250074+00:00"
+        ],
+        "objectClass": [
+            "top",
+            "person",
+            "organizationalPerson",
+            "user",
+            "computer"
+        ],
+        "objectSid": [
+            "S-1-5-21-2284526575-3220193634-2291435605-7080"
+        ],
+        "operatingSystem": [
+            "Windows Server 2012 R2 Standard"
+        ],
+        "operatingSystemServicePack": [],
+        "operatingSystemVersion": [
+            "6.3 (9600)"
+        ],
+        "sAMAccountName": [
+            "EXREPORT$"
+        ],
+        "userAccountControl": [
+            4096
+        ],
+        "whenCreated": [
+            "2018-12-10 09:06:35+00:00"
+        ]
+    },
+    "dn": "CN=EXREPORT,CN=Computers,DC=hawee,DC=local"
+},{
+    "attributes": {
+        "cn": [
+            "EXDAG"
+        ],
+        "dNSHostName": [],
+        "description": [
+            "Failover cluster virtual network name account"
+        ],
+        "lastLogon": [],
+        "objectClass": [
+            "top",
+            "person",
+            "organizationalPerson",
+            "user",
+            "computer"
+        ],
+        "objectSid": [
+            "S-1-5-21-2284526575-3220193634-2291435605-7508"
+        ],
+        "operatingSystem": [],
+        "operatingSystemServicePack": [],
+        "operatingSystemVersion": [],
+        "sAMAccountName": [
+            "EXDAG$"
+        ],
+        "userAccountControl": [
+            4096
+        ],
+        "whenCreated": [
+            "2018-11-29 11:45:10+00:00"
+        ]
+    },
+    "dn": "CN=EXDAG,OU=Computers,OU=HWHO,DC=hawee,DC=local"
+},{
+    "attributes": {
+        "cn": [
+            "HO-PRINTER-SV"
+        ],
+        "dNSHostName": [
+            "HO-Printer-SV.hawee.local"
+        ],
+        "description": [],
+        "lastLogon": [
+            "2019-03-13 22:39:24.852268+00:00"
+        ],
+        "objectClass": [
+            "top",
+            "person",
+            "organizationalPerson",
+            "user",
+            "computer"
+        ],
+        "objectSid": [
+            "S-1-5-21-2284526575-3220193634-2291435605-7504"
+        ],
+        "operatingSystem": [
+            "Windows Server 2016 Standard"
+        ],
+        "operatingSystemServicePack": [],
+        "operatingSystemVersion": [
+            "10.0 (14393)"
+        ],
+        "sAMAccountName": [
+            "HO-PRINTER-SV$"
+        ],
+        "userAccountControl": [
+            4096
+        ],
+        "whenCreated": [
+            "2018-11-22 10:33:25+00:00"
+        ]
+    },
+    "dn": "CN=HO-PRINTER-SV,CN=Computers,DC=hawee,DC=local"
+},{
+    "attributes": {
+        "cn": [
+            "NGA-BKS"
+        ],
+        "dNSHostName": [
+            "nga-bks.hawee.local"
+        ],
+        "description": [],
+        "lastLogon": [
+            "2019-03-13 04:57:56.977869+00:00"
+        ],
+        "objectClass": [
+            "top",
+            "person",
+            "organizationalPerson",
+            "user",
+            "computer"
+        ],
+        "objectSid": [
+            "S-1-5-21-2284526575-3220193634-2291435605-7498"
+        ],
+        "operatingSystem": [
+            "Windows 10 Enterprise 2016 LTSB"
+        ],
+        "operatingSystemServicePack": [],
+        "operatingSystemVersion": [
+            "10.0 (14393)"
+        ],
+        "sAMAccountName": [
+            "NGA-BKS$"
+        ],
+        "userAccountControl": [
+            4096
+        ],
+        "whenCreated": [
+            "2018-11-19 03:31:25+00:00"
+        ]
+    },
+    "dn": "CN=NGA-BKS,CN=Computers,DC=hawee,DC=local"
+},{
+    "attributes": {
+        "cn": [
+            "THUONG-BKS"
+        ],
+        "dNSHostName": [
+            "thuong-bks.hawee.local"
+        ],
+        "description": [],
+        "lastLogon": [
+            "2019-03-14 03:03:38.360003+00:00"
+        ],
+        "objectClass": [
+            "top",
+            "person",
+            "organizationalPerson",
+            "user",
+            "computer"
+        ],
+        "objectSid": [
+            "S-1-5-21-2284526575-3220193634-2291435605-7038"
+        ],
+        "operatingSystem": [
+            "Windows 10 Enterprise 2016 LTSB"
+        ],
+        "operatingSystemServicePack": [],
+        "operatingSystemVersion": [
+            "10.0 (14393)"
+        ],
+        "sAMAccountName": [
+            "THUONG-BKS$"
+        ],
+        "userAccountControl": [
+            4096
+        ],
+        "whenCreated": [
+            "2018-11-19 03:26:38+00:00"
+        ]
+    },
+    "dn": "CN=THUONG-BKS,CN=Computers,DC=hawee,DC=local"
+},{
+    "attributes": {
+        "cn": [
+            "MUI-KTME"
+        ],
+        "dNSHostName": [
+            "mui-ktme.hawee.local"
+        ],
+        "description": [],
+        "lastLogon": [
+            "2019-03-14 01:11:00.713951+00:00"
+        ],
+        "objectClass": [
+            "top",
+            "person",
+            "organizationalPerson",
+            "user",
+            "computer"
+        ],
+        "objectSid": [
+            "S-1-5-21-2284526575-3220193634-2291435605-7494"
+        ],
+        "operatingSystem": [
+            "Windows 10 Pro"
+        ],
+        "operatingSystemServicePack": [],
+        "operatingSystemVersion": [
+            "10.0 (17763)"
+        ],
+        "sAMAccountName": [
+            "MUI-KTME$"
+        ],
+        "userAccountControl": [
+            4096
+        ],
+        "whenCreated": [
+            "2018-11-16 04:19:47+00:00"
+        ]
+    },
+    "dn": "CN=MUI-KTME,CN=Computers,DC=hawee,DC=local"
+},{
+    "attributes": {
+        "cn": [
+            "HO-MANAGEENGINE"
+        ],
+        "dNSHostName": [
+            "HO-ManageEngine-SV.hawee.local"
+        ],
+        "description": [],
+        "lastLogon": [
+            "2019-03-14 02:42:18.895985+00:00"
+        ],
+        "objectClass": [
+            "top",
+            "person",
+            "organizationalPerson",
+            "user",
+            "computer"
+        ],
+        "objectSid": [
+            "S-1-5-21-2284526575-3220193634-2291435605-7034"
+        ],
+        "operatingSystem": [
+            "Windows Server 2016 Standard"
+        ],
+        "operatingSystemServicePack": [],
+        "operatingSystemVersion": [
+            "10.0 (14393)"
+        ],
+        "sAMAccountName": [
+            "HO-MANAGEENGINE$"
+        ],
+        "userAccountControl": [
+            4096
+        ],
+        "whenCreated": [
+            "2018-11-15 02:00:48+00:00"
+        ]
+    },
+    "dn": "CN=HO-MANAGEENGINE,CN=Computers,DC=hawee,DC=local"
+},{
+    "attributes": {
+        "cn": [
+            "KT-KYNT-IDC"
+        ],
+        "dNSHostName": [
+            "KT-KyNT-IDC.hawee.local"
+        ],
+        "description": [],
+        "lastLogon": [
+            "2019-03-13 06:20:57.160324+00:00"
+        ],
+        "objectClass": [
+            "top",
+            "person",
+            "organizationalPerson",
+            "user",
+            "computer"
+        ],
+        "objectSid": [
+            "S-1-5-21-2284526575-3220193634-2291435605-7490"
+        ],
+        "operatingSystem": [
+            "Windows 10 Enterprise"
+        ],
+        "operatingSystemServicePack": [],
+        "operatingSystemVersion": [
+            "10.0 (17763)"
+        ],
+        "sAMAccountName": [
+            "KT-KYNT-IDC$"
+        ],
+        "userAccountControl": [
+            4096
+        ],
+        "whenCreated": [
+            "2018-11-14 07:47:59+00:00"
+        ]
+    },
+    "dn": "CN=KT-KYNT-IDC,CN=Computers,DC=hawee,DC=local"
+},{
+    "attributes": {
+        "cn": [
+            "HO-WSUS-SV"
+        ],
+        "dNSHostName": [
+            "HO-WSUS-SV.hawee.local"
+        ],
+        "description": [],
+        "lastLogon": [
+            "2019-03-13 08:16:02.422125+00:00"
+        ],
+        "objectClass": [
+            "top",
+            "person",
+            "organizationalPerson",
+            "user",
+            "computer"
+        ],
+        "objectSid": [
+            "S-1-5-21-2284526575-3220193634-2291435605-7025"
+        ],
+        "operatingSystem": [
+            "Windows Server 2016 Standard"
+        ],
+        "operatingSystemServicePack": [],
+        "operatingSystemVersion": [
+            "10.0 (14393)"
+        ],
+        "sAMAccountName": [
+            "HO-WSUS-SV$"
+        ],
+        "userAccountControl": [
+            4096
+        ],
+        "whenCreated": [
+            "2018-11-09 10:04:17+00:00"
+        ]
+    },
+    "dn": "CN=HO-WSUS-SV,CN=Computers,DC=hawee,DC=local"
+},{
+    "attributes": {
+        "cn": [
+            "HO-VEEAMONE-SV"
+        ],
+        "dNSHostName": [
+            "HO-VeeamOne-SV.hawee.local"
+        ],
+        "description": [],
+        "lastLogon": [
+            "2019-03-13 14:39:07.252392+00:00"
+        ],
+        "objectClass": [
+            "top",
+            "person",
+            "organizationalPerson",
+            "user",
+            "computer"
+        ],
+        "objectSid": [
+            "S-1-5-21-2284526575-3220193634-2291435605-7024"
+        ],
+        "operatingSystem": [
+            "Windows Server 2016 Standard"
+        ],
+        "operatingSystemServicePack": [],
+        "operatingSystemVersion": [
+            "10.0 (14393)"
+        ],
+        "sAMAccountName": [
+            "HO-VEEAMONE-SV$"
+        ],
+        "userAccountControl": [
+            4096
+        ],
+        "whenCreated": [
+            "2018-11-07 09:05:35+00:00"
+        ]
+    },
+    "dn": "CN=HO-VEEAMONE-SV,CN=Computers,DC=hawee,DC=local"
+},{
+    "attributes": {
+        "cn": [
+            "HW-PC-IT01"
+        ],
+        "dNSHostName": [
+            "HW-PC-IT01.hawee.local"
+        ],
+        "description": [],
+        "lastLogon": [
+            "2018-12-03 02:04:13.526175+00:00"
+        ],
+        "objectClass": [
+            "top",
+            "person",
+            "organizationalPerson",
+            "user",
+            "computer"
+        ],
+        "objectSid": [
+            "S-1-5-21-2284526575-3220193634-2291435605-6963"
+        ],
+        "operatingSystem": [
+            "Windows 10 Enterprise"
+        ],
+        "operatingSystemServicePack": [],
+        "operatingSystemVersion": [
+            "10.0 (17134)"
+        ],
+        "sAMAccountName": [
+            "HW-PC-IT01$"
+        ],
+        "userAccountControl": [
+            4096
+        ],
+        "whenCreated": [
+            "2018-11-02 01:41:54+00:00"
+        ]
+    },
+    "dn": "CN=HW-PC-IT01,CN=Computers,DC=hawee,DC=local"
+},{
+    "attributes": {
+        "cn": [
+            "THAONP-TTDT-ME"
+        ],
+        "dNSHostName": [
+            "THAONP-TTDT-ME.hawee.local"
+        ],
+        "description": [],
+        "lastLogon": [
+            "2019-03-06 10:52:49.473438+00:00"
+        ],
+        "objectClass": [
+            "top",
+            "person",
+            "organizationalPerson",
+            "user",
+            "computer"
+        ],
+        "objectSid": [
+            "S-1-5-21-2284526575-3220193634-2291435605-7479"
+        ],
+        "operatingSystem": [
+            "Windows 10 Pro"
+        ],
+        "operatingSystemServicePack": [],
+        "operatingSystemVersion": [
+            "10.0 (17763)"
+        ],
+        "sAMAccountName": [
+            "THAONP-TTDT-ME$"
+        ],
+        "userAccountControl": [
+            4096
+        ],
+        "whenCreated": [
+            "2018-11-01 04:39:06+00:00"
+        ]
+    },
+    "dn": "CN=THAONP-TTDT-ME,CN=Computers,DC=hawee,DC=local"
+},{
+    "attributes": {
+        "cn": [
+            "HO-SOLARWINDS-S"
+        ],
+        "dNSHostName": [
+            "HO-SolarWinds-SV.hawee.local"
+        ],
+        "description": [],
+        "lastLogon": [
+            "2019-03-12 22:39:28.199888+00:00"
+        ],
+        "objectClass": [
+            "top",
+            "person",
+            "organizationalPerson",
+            "user",
+            "computer"
+        ],
+        "objectSid": [
+            "S-1-5-21-2284526575-3220193634-2291435605-7467"
+        ],
+        "operatingSystem": [
+            "Windows Server 2016 Standard Evaluation"
+        ],
+        "operatingSystemServicePack": [],
+        "operatingSystemVersion": [
+            "10.0 (14393)"
+        ],
+        "sAMAccountName": [
+            "HO-SOLARWINDS-S$"
+        ],
+        "userAccountControl": [
+            4096
+        ],
+        "whenCreated": [
+            "2018-10-18 07:53:32+00:00"
+        ]
+    },
+    "dn": "CN=HO-SOLARWINDS-S,CN=Computers,DC=hawee,DC=local"
+},{
+    "attributes": {
+        "cn": [
+            "HO-SVN-SV"
+        ],
+        "dNSHostName": [
+            "HO-SVN-SV.hawee.local"
+        ],
+        "description": [],
+        "lastLogon": [
+            "2018-10-31 04:37:38.090061+00:00"
+        ],
+        "objectClass": [
+            "top",
+            "person",
+            "organizationalPerson",
+            "user",
+            "computer"
+        ],
+        "objectSid": [
+            "S-1-5-21-2284526575-3220193634-2291435605-7427"
+        ],
+        "operatingSystem": [
+            "Windows Server 2012 R2 Datacenter"
+        ],
+        "operatingSystemServicePack": [],
+        "operatingSystemVersion": [
+            "6.3 (9600)"
+        ],
+        "sAMAccountName": [
+            "HO-SVN-SV$"
+        ],
+        "userAccountControl": [
+            4096
+        ],
+        "whenCreated": [
+            "2018-09-25 07:02:36+00:00"
+        ]
+    },
+    "dn": "CN=HO-SVN-SV,CN=Computers,DC=hawee,DC=local"
+},{
+    "attributes": {
+        "cn": [
+            "DESKTOP-K6UT3OO"
+        ],
+        "dNSHostName": [
+            "DESKTOP-K6UT3OO.hawee.local"
+        ],
+        "description": [],
+        "lastLogon": [
+            "2018-09-24 11:48:16.135836+00:00"
+        ],
+        "objectClass": [
+            "top",
+            "person",
+            "organizationalPerson",
+            "user",
+            "computer"
+        ],
+        "objectSid": [
+            "S-1-5-21-2284526575-3220193634-2291435605-7420"
+        ],
+        "operatingSystem": [
+            "Windows 10 Enterprise 2016 LTSB"
+        ],
+        "operatingSystemServicePack": [],
+        "operatingSystemVersion": [
+            "10.0 (14393)"
+        ],
+        "sAMAccountName": [
+            "DESKTOP-K6UT3OO$"
+        ],
+        "userAccountControl": [
+            4096
+        ],
+        "whenCreated": [
+            "2018-09-22 07:43:41+00:00"
+        ]
+    },
+    "dn": "CN=DESKTOP-K6UT3OO,CN=Computers,DC=hawee,DC=local"
+},{
+    "attributes": {
+        "cn": [
+            "NGOCNHOM"
+        ],
+        "dNSHostName": [
+            "ngocnhom.hawee.local"
+        ],
+        "description": [],
+        "lastLogon": [
+            "2018-09-15 05:34:38.531521+00:00"
+        ],
+        "objectClass": [
+            "top",
+            "person",
+            "organizationalPerson",
+            "user",
+            "computer"
+        ],
+        "objectSid": [
+            "S-1-5-21-2284526575-3220193634-2291435605-7414"
+        ],
+        "operatingSystem": [],
+        "operatingSystemServicePack": [],
+        "operatingSystemVersion": [],
+        "sAMAccountName": [
+            "NGOCNHOM$"
+        ],
+        "userAccountControl": [
+            69632
+        ],
+        "whenCreated": [
+            "2018-09-15 05:33:14+00:00"
+        ]
+    },
+    "dn": "CN=NGOCNHOM,CN=Computers,DC=hawee,DC=local"
+},{
+    "attributes": {
+        "cn": [
+            "HW-NAS"
+        ],
+        "dNSHostName": [
+            "hw-nas.hawee.local"
+        ],
+        "description": [],
+        "lastLogon": [
+            "2019-03-14 03:00:02.946993+00:00"
+        ],
+        "objectClass": [
+            "top",
+            "person",
+            "organizationalPerson",
+            "user",
+            "computer"
+        ],
+        "objectSid": [
+            "S-1-5-21-2284526575-3220193634-2291435605-7412"
+        ],
+        "operatingSystem": [],
+        "operatingSystemServicePack": [],
+        "operatingSystemVersion": [],
+        "sAMAccountName": [
+            "HW-NAS$"
+        ],
+        "userAccountControl": [
+            69632
+        ],
+        "whenCreated": [
+            "2018-09-11 07:48:32+00:00"
+        ]
+    },
+    "dn": "CN=HW-NAS,CN=Computers,DC=hawee,DC=local"
+},{
+    "attributes": {
+        "cn": [
+            "HO-PRTG-SP"
+        ],
+        "dNSHostName": [
+            "HO-PRTG-SP.hawee.local"
+        ],
+        "description": [],
+        "lastLogon": [
+            "2018-08-24 10:43:28.262207+00:00"
+        ],
+        "objectClass": [
+            "top",
+            "person",
+            "organizationalPerson",
+            "user",
+            "computer"
+        ],
+        "objectSid": [
+            "S-1-5-21-2284526575-3220193634-2291435605-7391"
+        ],
+        "operatingSystem": [
+            "Windows Server 2012 R2 Standard"
+        ],
+        "operatingSystemServicePack": [],
+        "operatingSystemVersion": [
+            "6.3 (9600)"
+        ],
+        "sAMAccountName": [
+            "HO-PRTG-SP$"
+        ],
+        "userAccountControl": [
+            4096
+        ],
+        "whenCreated": [
+            "2018-08-23 10:47:52+00:00"
+        ]
+    },
+    "dn": "CN=HO-PRTG-SP,CN=Computers,DC=hawee,DC=local"
+},{
+    "attributes": {
+        "cn": [
+            "HO-HRAPP01-SV"
+        ],
+        "dNSHostName": [
+            "HO-HRAPP01-SV.hawee.local"
+        ],
+        "description": [],
+        "lastLogon": [
+            "2019-03-13 22:53:46.631865+00:00"
+        ],
+        "objectClass": [
+            "top",
+            "person",
+            "organizationalPerson",
+            "user",
+            "computer"
+        ],
+        "objectSid": [
+            "S-1-5-21-2284526575-3220193634-2291435605-7388"
+        ],
+        "operatingSystem": [
+            "Windows Server 2012 R2 Standard"
+        ],
+        "operatingSystemServicePack": [],
+        "operatingSystemVersion": [
+            "6.3 (9600)"
+        ],
+        "sAMAccountName": [
+            "HO-HRAPP01-SV$"
+        ],
+        "userAccountControl": [
+            4096
+        ],
+        "whenCreated": [
+            "2018-08-21 09:44:57+00:00"
+        ]
+    },
+    "dn": "CN=HO-HRAPP01-SV,CN=Computers,DC=hawee,DC=local"
+},{
+    "attributes": {
+        "cn": [
+            "HO-MONITOR-SV"
+        ],
+        "dNSHostName": [
+            "HO-MONITOR-SV.hawee.local"
+        ],
+        "description": [],
+        "lastLogon": [
+            "2018-10-17 08:04:29.891607+00:00"
+        ],
+        "objectClass": [
+            "top",
+            "person",
+            "organizationalPerson",
+            "user",
+            "computer"
+        ],
+        "objectSid": [
+            "S-1-5-21-2284526575-3220193634-2291435605-6827"
+        ],
+        "operatingSystem": [
+            "Windows Server 2012 R2 Standard"
+        ],
+        "operatingSystemServicePack": [],
+        "operatingSystemVersion": [
+            "6.3 (9600)"
+        ],
+        "sAMAccountName": [
+            "HO-MONITOR-SV$"
+        ],
+        "userAccountControl": [
+            4096
+        ],
+        "whenCreated": [
+            "2018-08-20 09:36:37+00:00"
+        ]
+    },
+    "dn": "CN=HO-MONITOR-SV,CN=Computers,DC=hawee,DC=local"
+},{
+    "attributes": {
+        "cn": [
+            "HO-VMMONITOR-SV"
+        ],
+        "dNSHostName": [
+            "HO-VMMonitor-SV.hawee.local"
+        ],
+        "description": [],
+        "lastLogon": [
+            "2018-11-07 02:30:13.637547+00:00"
+        ],
+        "objectClass": [
+            "top",
+            "person",
+            "organizationalPerson",
+            "user",
+            "computer"
+        ],
+        "objectSid": [
+            "S-1-5-21-2284526575-3220193634-2291435605-7360"
+        ],
+        "operatingSystem": [
+            "Windows Server 2012 R2 Datacenter"
+        ],
+        "operatingSystemServicePack": [],
+        "operatingSystemVersion": [
+            "6.3 (9600)"
+        ],
+        "sAMAccountName": [
+            "HO-VMMONITOR-SV$"
+        ],
+        "userAccountControl": [
+            4096
+        ],
+        "whenCreated": [
+            "2018-08-16 07:18:00+00:00"
+        ]
+    },
+    "dn": "CN=HO-VMMONITOR-SV,CN=Computers,DC=hawee,DC=local"
+},{
+    "attributes": {
+        "cn": [
+            "HO-VPN-SV"
+        ],
+        "dNSHostName": [
+            "HO-VPN-SV.hawee.local"
+        ],
+        "description": [],
+        "lastLogon": [
+            "2018-08-16 06:08:42.295080+00:00"
+        ],
+        "objectClass": [
+            "top",
+            "person",
+            "organizationalPerson",
+            "user",
+            "computer"
+        ],
+        "objectSid": [
+            "S-1-5-21-2284526575-3220193634-2291435605-6821"
+        ],
+        "operatingSystem": [
+            "Windows Server 2012 R2 Datacenter"
+        ],
+        "operatingSystemServicePack": [],
+        "operatingSystemVersion": [
+            "6.3 (9600)"
+        ],
+        "sAMAccountName": [
+            "HO-VPN-SV$"
+        ],
+        "userAccountControl": [
+            4096
+        ],
+        "whenCreated": [
+            "2018-08-16 03:43:21+00:00"
+        ]
+    },
+    "dn": "CN=HO-VPN-SV,CN=Computers,DC=hawee,DC=local"
+},{
+    "attributes": {
+        "cn": [
+            "HO-AM-SV"
+        ],
+        "dNSHostName": [
+            "HO-AM-SV.hawee.local"
+        ],
+        "description": [],
+        "lastLogon": [
+            "2018-08-13 22:36:02.522873+00:00"
+        ],
+        "objectClass": [
+            "top",
+            "person",
+            "organizationalPerson",
+            "user",
+            "computer"
+        ],
+        "objectSid": [
+            "S-1-5-21-2284526575-3220193634-2291435605-6800"
+        ],
+        "operatingSystem": [
+            "Windows Server 2008 R2 Enterprise"
+        ],
+        "operatingSystemServicePack": [
+            "Service Pack 1"
+        ],
+        "operatingSystemVersion": [
+            "6.1 (7601)"
+        ],
+        "sAMAccountName": [
+            "HO-AM-SV$"
+        ],
+        "userAccountControl": [
+            4096
+        ],
+        "whenCreated": [
+            "2018-08-11 07:01:32+00:00"
+        ]
+    },
+    "dn": "CN=HO-AM-SV,CN=Computers,DC=hawee,DC=local"
+},{
+    "attributes": {
+        "cn": [
+            "HO-ME-SV"
+        ],
+        "dNSHostName": [
+            "HO-ME-SV.hawee.local"
+        ],
+        "description": [],
+        "lastLogon": [
+            "2018-11-08 04:15:28.730516+00:00"
+        ],
+        "objectClass": [
+            "top",
+            "person",
+            "organizationalPerson",
+            "user",
+            "computer"
+        ],
+        "objectSid": [
+            "S-1-5-21-2284526575-3220193634-2291435605-7346"
+        ],
+        "operatingSystem": [
+            "Windows Server 2012 R2 Datacenter"
+        ],
+        "operatingSystemServicePack": [],
+        "operatingSystemVersion": [
+            "6.3 (9600)"
+        ],
+        "sAMAccountName": [
+            "HO-ME-SV$"
+        ],
+        "userAccountControl": [
+            4096
+        ],
+        "whenCreated": [
+            "2018-08-10 08:31:42+00:00"
+        ]
+    },
+    "dn": "CN=HO-ME-SV,CN=Computers,DC=hawee,DC=local"
+},{
+    "attributes": {
+        "cn": [
+            "HO-KSC-SV"
+        ],
+        "dNSHostName": [
+            "HO-KSC-SV.hawee.local"
+        ],
+        "description": [],
+        "lastLogon": [
+            "2019-03-13 09:13:34.940832+00:00"
+        ],
+        "objectClass": [
+            "top",
+            "person",
+            "organizationalPerson",
+            "user",
+            "computer"
+        ],
+        "objectSid": [
+            "S-1-5-21-2284526575-3220193634-2291435605-7342"
+        ],
+        "operatingSystem": [
+            "Windows Server 2012 R2 Datacenter"
+        ],
+        "operatingSystemServicePack": [],
+        "operatingSystemVersion": [
+            "6.3 (9600)"
+        ],
+        "sAMAccountName": [
+            "HO-KSC-SV$"
+        ],
+        "userAccountControl": [
+            4096
+        ],
+        "whenCreated": [
+            "2018-08-06 08:57:10+00:00"
+        ]
+    },
+    "dn": "CN=HO-KSC-SV,OU=Computers,OU=HWHO,DC=hawee,DC=local"
+},{
+    "attributes": {
+        "cn": [
+            "HW-THUONGHTH-KT"
+        ],
+        "dNSHostName": [
+            "HW-ThuongHTH-KT.hawee.local"
+        ],
+        "description": [],
+        "lastLogon": [
+            "2019-03-13 08:50:16.535595+00:00"
+        ],
+        "objectClass": [
+            "top",
+            "person",
+            "organizationalPerson",
+            "user",
+            "computer"
+        ],
+        "objectSid": [
+            "S-1-5-21-2284526575-3220193634-2291435605-6767"
+        ],
+        "operatingSystem": [
+            "Windows 10 Pro"
+        ],
+        "operatingSystemServicePack": [],
+        "operatingSystemVersion": [
+            "10.0 (17763)"
+        ],
+        "sAMAccountName": [
+            "HW-THUONGHTH-KT$"
+        ],
+        "userAccountControl": [
+            4096
+        ],
+        "whenCreated": [
+            "2018-08-06 04:06:18+00:00"
+        ]
+    },
+    "dn": "CN=HW-THUONGHTH-KT,CN=Computers,DC=hawee,DC=local"
+},{
+    "attributes": {
+        "cn": [
+            "MGM"
+        ],
+        "dNSHostName": [
+            "MGM.hawee.local"
+        ],
+        "description": [],
+        "lastLogon": [
+            "2018-10-08 04:07:56.313116+00:00"
+        ],
+        "objectClass": [
+            "top",
+            "person",
+            "organizationalPerson",
+            "user",
+            "computer"
+        ],
+        "objectSid": [
+            "S-1-5-21-2284526575-3220193634-2291435605-7334"
+        ],
+        "operatingSystem": [
+            "Windows Server 2012 R2 Standard"
+        ],
+        "operatingSystemServicePack": [],
+        "operatingSystemVersion": [
+            "6.3 (9600)"
+        ],
+        "sAMAccountName": [
+            "MGM$"
+        ],
+        "userAccountControl": [
+            4096
+        ],
+        "whenCreated": [
+            "2018-07-16 07:56:43+00:00"
+        ]
+    },
+    "dn": "CN=MGM,CN=Computers,DC=hawee,DC=local"
+},{
+    "attributes": {
+        "cn": [
+            "HUE-KTME"
+        ],
+        "dNSHostName": [
+            "Hue-ktme.hawee.local"
+        ],
+        "description": [],
+        "lastLogon": [
+            "2019-03-14 01:25:22.341072+00:00"
+        ],
+        "objectClass": [
+            "top",
+            "person",
+            "organizationalPerson",
+            "user",
+            "computer"
+        ],
+        "objectSid": [
+            "S-1-5-21-2284526575-3220193634-2291435605-6738"
+        ],
+        "operatingSystem": [
+            "Windows 10 Enterprise"
+        ],
+        "operatingSystemServicePack": [],
+        "operatingSystemVersion": [
+            "10.0 (17763)"
+        ],
+        "sAMAccountName": [
+            "HUE-KTME$"
+        ],
+        "userAccountControl": [
+            4096
+        ],
+        "whenCreated": [
+            "2018-07-10 02:33:21+00:00"
+        ]
+    },
+    "dn": "CN=HUE-KTME,CN=Computers,DC=hawee,DC=local"
+},{
+    "attributes": {
+        "cn": [
+            "HUONG4-KTME"
+        ],
+        "dNSHostName": [
+            "huong4-ktme.hawee.local"
+        ],
+        "description": [],
+        "lastLogon": [
+            "2019-03-13 11:23:05.391352+00:00"
+        ],
+        "objectClass": [
+            "top",
+            "person",
+            "organizationalPerson",
+            "user",
+            "computer"
+        ],
+        "objectSid": [
+            "S-1-5-21-2284526575-3220193634-2291435605-7319"
+        ],
+        "operatingSystem": [
+            "Windows 10 Pro"
+        ],
+        "operatingSystemServicePack": [],
+        "operatingSystemVersion": [
+            "10.0 (17763)"
+        ],
+        "sAMAccountName": [
+            "HUONG4-KTME$"
+        ],
+        "userAccountControl": [
+            4096
+        ],
+        "whenCreated": [
+            "2018-07-05 08:07:38+00:00"
+        ]
+    },
+    "dn": "CN=HUONG4-KTME,CN=Computers,DC=hawee,DC=local"
+},{
+    "attributes": {
+        "cn": [
+            "HAWEEGROUP"
+        ],
+        "dNSHostName": [
+            "HaweeGroup.hawee.local"
+        ],
+        "description": [],
+        "lastLogon": [
+            "2018-06-14 04:42:30.757854+00:00"
+        ],
+        "objectClass": [
+            "top",
+            "person",
+            "organizationalPerson",
+            "user",
+            "computer"
+        ],
+        "objectSid": [
+            "S-1-5-21-2284526575-3220193634-2291435605-6719"
+        ],
+        "operatingSystem": [
+            "Windows 10 Enterprise"
+        ],
+        "operatingSystemServicePack": [],
+        "operatingSystemVersion": [
+            "10.0 (17134)"
+        ],
+        "sAMAccountName": [
+            "HAWEEGROUP$"
+        ],
+        "userAccountControl": [
+            4096
+        ],
+        "whenCreated": [
+            "2018-06-14 04:10:46+00:00"
+        ]
+    },
+    "dn": "CN=HAWEEGROUP,CN=Computers,DC=hawee,DC=local"
+},{
+    "attributes": {
+        "cn": [
+            "VT-LENT-ME"
+        ],
+        "dNSHostName": [
+            "VT-LeNT-ME.hawee.local"
+        ],
+        "description": [],
+        "lastLogon": [
+            "2018-12-11 08:38:57.972292+00:00"
+        ],
+        "objectClass": [
+            "top",
+            "person",
+            "organizationalPerson",
+            "user",
+            "computer"
+        ],
+        "objectSid": [
+            "S-1-5-21-2284526575-3220193634-2291435605-6717"
+        ],
+        "operatingSystem": [
+            "Windows 10 Education"
+        ],
+        "operatingSystemServicePack": [],
+        "operatingSystemVersion": [
+            "10.0 (17134)"
+        ],
+        "sAMAccountName": [
+            "VT-LENT-ME$"
+        ],
+        "userAccountControl": [
+            4096
+        ],
+        "whenCreated": [
+            "2018-06-12 08:58:09+00:00"
+        ]
+    },
+    "dn": "CN=VT-LENT-ME,CN=Computers,DC=hawee,DC=local"
+},{
+    "attributes": {
+        "cn": [
+            "AF-HUONGNT-ME"
+        ],
+        "dNSHostName": [
+            "AF-HuongNT-ME.hawee.local"
+        ],
+        "description": [],
+        "lastLogon": [
+            "2019-03-14 01:56:06.717499+00:00"
+        ],
+        "objectClass": [
+            "top",
+            "person",
+            "organizationalPerson",
+            "user",
+            "computer"
+        ],
+        "objectSid": [
+            "S-1-5-21-2284526575-3220193634-2291435605-6716"
+        ],
+        "operatingSystem": [
+            "Windows 10 Enterprise"
+        ],
+        "operatingSystemServicePack": [],
+        "operatingSystemVersion": [
+            "10.0 (17763)"
+        ],
+        "sAMAccountName": [
+            "AF-HUONGNT-ME$"
+        ],
+        "userAccountControl": [
+            4096
+        ],
+        "whenCreated": [
+            "2018-06-12 06:52:05+00:00"
+        ]
+    },
+    "dn": "CN=AF-HUONGNT-ME,CN=Computers,DC=hawee,DC=local"
+},{
+    "attributes": {
+        "cn": [
+            "VT-BINHNTT-ME"
+        ],
+        "dNSHostName": [
+            "VT-BinhNTT-ME.hawee.local"
+        ],
+        "description": [],
+        "lastLogon": [
+            "2018-12-13 00:58:35.285810+00:00"
+        ],
+        "objectClass": [
+            "top",
+            "person",
+            "organizationalPerson",
+            "user",
+            "computer"
+        ],
+        "objectSid": [
+            "S-1-5-21-2284526575-3220193634-2291435605-7295"
+        ],
+        "operatingSystem": [
+            "Windows 7 Ultimate"
+        ],
+        "operatingSystemServicePack": [
+            "Service Pack 1"
+        ],
+        "operatingSystemVersion": [
+            "6.1 (7601)"
+        ],
+        "sAMAccountName": [
+            "VT-BINHNTT-ME$"
+        ],
+        "userAccountControl": [
+            4096
+        ],
+        "whenCreated": [
+            "2018-06-08 04:03:26+00:00"
+        ]
+    },
+    "dn": "CN=VT-BINHNTT-ME,CN=Computers,DC=hawee,DC=local"
+},{
+    "attributes": {
+        "cn": [
+            "QLTC-HUYENNTM-M"
+        ],
+        "dNSHostName": [
+            "QLTC-HuyenNTM-ME.hawee.local"
+        ],
+        "description": [],
+        "lastLogon": [
+            "2019-03-13 08:09:07.803177+00:00"
+        ],
+        "objectClass": [
+            "top",
+            "person",
+            "organizationalPerson",
+            "user",
+            "computer"
+        ],
+        "objectSid": [
+            "S-1-5-21-2284526575-3220193634-2291435605-6715"
+        ],
+        "operatingSystem": [
+            "Windows 10 Enterprise"
+        ],
+        "operatingSystemServicePack": [],
+        "operatingSystemVersion": [
+            "10.0 (17134)"
+        ],
+        "sAMAccountName": [
+            "QLTC-HUYENNTM-M$"
+        ],
+        "userAccountControl": [
+            4096
+        ],
+        "whenCreated": [
+            "2018-06-07 07:30:04+00:00"
+        ]
+    },
+    "dn": "CN=QLTC-HUYENNTM-M,CN=Computers,DC=hawee,DC=local"
+},{
+    "attributes": {
+        "cn": [
+            "W10ENT"
+        ],
+        "dNSHostName": [
+            "W10ENT.hawee.local"
+        ],
+        "description": [],
+        "lastLogon": [],
+        "objectClass": [
+            "top",
+            "person",
+            "organizationalPerson",
+            "user",
+            "computer"
+        ],
+        "objectSid": [
+            "S-1-5-21-2284526575-3220193634-2291435605-7294"
+        ],
+        "operatingSystem": [
+            "Windows 10 Enterprise"
+        ],
+        "operatingSystemServicePack": [],
+        "operatingSystemVersion": [
+            "10.0 (17134)"
+        ],
+        "sAMAccountName": [
+            "W10ENT$"
+        ],
+        "userAccountControl": [
+            4096
+        ],
+        "whenCreated": [
+            "2018-06-07 06:43:36+00:00"
+        ]
+    },
+    "dn": "CN=W10ENT,CN=Computers,DC=hawee,DC=local"
+},{
+    "attributes": {
+        "cn": [
+            "DATNV-W10"
+        ],
+        "dNSHostName": [
+            "DatNV-W10.hawee.local"
+        ],
+        "description": [],
+        "lastLogon": [
+            "2018-06-07 06:32:35.257744+00:00"
+        ],
+        "objectClass": [
+            "top",
+            "person",
+            "organizationalPerson",
+            "user",
+            "computer"
+        ],
+        "objectSid": [
+            "S-1-5-21-2284526575-3220193634-2291435605-7292"
+        ],
+        "operatingSystem": [
+            "Windows 10 Enterprise"
+        ],
+        "operatingSystemServicePack": [],
+        "operatingSystemVersion": [
+            "10.0 (17134)"
+        ],
+        "sAMAccountName": [
+            "DATNV-W10$"
+        ],
+        "userAccountControl": [
+            4096
+        ],
+        "whenCreated": [
+            "2018-06-07 03:46:07+00:00"
+        ]
+    },
+    "dn": "CN=DATNV-W10,CN=Computers,DC=hawee,DC=local"
+},{
+    "attributes": {
+        "cn": [
+            "WIN10ENTERPRISE"
+        ],
+        "dNSHostName": [
+            "Win10Enterprise.hawee.local"
+        ],
+        "description": [],
+        "lastLogon": [
+            "2018-06-07 03:14:13.991770+00:00"
+        ],
+        "objectClass": [
+            "top",
+            "person",
+            "organizationalPerson",
+            "user",
+            "computer"
+        ],
+        "objectSid": [
+            "S-1-5-21-2284526575-3220193634-2291435605-6714"
+        ],
+        "operatingSystem": [
+            "Windows 10 Enterprise"
+        ],
+        "operatingSystemServicePack": [],
+        "operatingSystemVersion": [
+            "10.0 (17134)"
+        ],
+        "sAMAccountName": [
+            "WIN10ENTERPRISE$"
+        ],
+        "userAccountControl": [
+            4096
+        ],
+        "whenCreated": [
+            "2018-06-07 02:13:51+00:00"
+        ]
+    },
+    "dn": "CN=WIN10ENTERPRISE,CN=Computers,DC=hawee,DC=local"
+},{
+    "attributes": {
+        "cn": [
+            "HO-ATOOLS-SV"
+        ],
+        "dNSHostName": [
+            "HO-ATools-SV.hawee.local"
+        ],
+        "description": [],
+        "lastLogon": [
+            "2019-03-14 02:19:32.244389+00:00"
+        ],
+        "objectClass": [
+            "top",
+            "person",
+            "organizationalPerson",
+            "user",
+            "computer"
+        ],
+        "objectSid": [
+            "S-1-5-21-2284526575-3220193634-2291435605-6707"
+        ],
+        "operatingSystem": [
+            "Windows Server 2012 R2 Datacenter"
+        ],
+        "operatingSystemServicePack": [],
+        "operatingSystemVersion": [
+            "6.3 (9600)"
+        ],
+        "sAMAccountName": [
+            "HO-ATOOLS-SV$"
+        ],
+        "userAccountControl": [
+            4096
+        ],
+        "whenCreated": [
+            "2018-05-23 08:54:29+00:00"
+        ]
+    },
+    "dn": "CN=HO-ATOOLS-SV,CN=Computers,DC=hawee,DC=local"
+},{
+    "attributes": {
+        "cn": [
+            "IDC-KT-DAICM"
+        ],
+        "dNSHostName": [
+            "IDC-KT-DAICM.hawee.local"
+        ],
+        "description": [],
+        "lastLogon": [
+            "2018-07-06 02:13:51.094557+00:00"
+        ],
+        "objectClass": [
+            "top",
+            "person",
+            "organizationalPerson",
+            "user",
+            "computer"
+        ],
+        "objectSid": [
+            "S-1-5-21-2284526575-3220193634-2291435605-7271"
+        ],
+        "operatingSystem": [
+            "Windows 10 Education"
+        ],
+        "operatingSystemServicePack": [],
+        "operatingSystemVersion": [
+            "10.0 (17134)"
+        ],
+        "sAMAccountName": [
+            "IDC-KT-DAICM$"
+        ],
+        "userAccountControl": [
+            4096
+        ],
+        "whenCreated": [
+            "2018-05-18 04:08:09+00:00"
+        ]
+    },
+    "dn": "CN=IDC-KT-DAICM,OU=Computers,OU=HWIDC,DC=hawee,DC=local"
+},{
+    "attributes": {
+        "cn": [
+            "STG-IBOMDB-SV"
+        ],
+        "dNSHostName": [
+            "Stg-IBomDB-SV.hawee.local"
+        ],
+        "description": [],
+        "lastLogon": [
+            "2019-03-12 14:07:40.589815+00:00"
+        ],
+        "objectClass": [
+            "top",
+            "person",
+            "organizationalPerson",
+            "user",
+            "computer"
+        ],
+        "objectSid": [
+            "S-1-5-21-2284526575-3220193634-2291435605-7263"
+        ],
+        "operatingSystem": [
+            "Windows Server 2012 R2 Datacenter"
+        ],
+        "operatingSystemServicePack": [],
+        "operatingSystemVersion": [
+            "6.3 (9600)"
+        ],
+        "sAMAccountName": [
+            "STG-IBOMDB-SV$"
+        ],
+        "userAccountControl": [
+            4096
+        ],
+        "whenCreated": [
+            "2018-05-15 06:21:40+00:00"
+        ]
+    },
+    "dn": "CN=STG-IBOMDB-SV,OU=Computers,OU=HWHO,DC=hawee,DC=local"
+},{
+    "attributes": {
+        "cn": [
+            "STG-IBOMAPP-SV"
+        ],
+        "dNSHostName": [
+            "Stg-IBomAPP-SV.hawee.local"
+        ],
+        "description": [],
+        "lastLogon": [
+            "2019-03-13 21:08:24.530205+00:00"
+        ],
+        "objectClass": [
+            "top",
+            "person",
+            "organizationalPerson",
+            "user",
+            "computer"
+        ],
+        "objectSid": [
+            "S-1-5-21-2284526575-3220193634-2291435605-6698"
+        ],
+        "operatingSystem": [
+            "Windows Server 2012 R2 Datacenter"
+        ],
+        "operatingSystemServicePack": [],
+        "operatingSystemVersion": [
+            "6.3 (9600)"
+        ],
+        "sAMAccountName": [
+            "STG-IBOMAPP-SV$"
+        ],
+        "userAccountControl": [
+            4096
+        ],
+        "whenCreated": [
+            "2018-05-15 06:20:31+00:00"
+        ]
+    },
+    "dn": "CN=STG-IBOMAPP-SV,OU=Computers,OU=HWHO,DC=hawee,DC=local"
+},{
+    "attributes": {
+        "cn": [
+            "HO-TESTIBOM-SV"
+        ],
+        "dNSHostName": [
+            "HO-TestIBom-SV.hawee.local"
+        ],
+        "description": [],
+        "lastLogon": [
+            "2019-03-13 18:40:02.835678+00:00"
+        ],
+        "objectClass": [
+            "top",
+            "person",
+            "organizationalPerson",
+            "user",
+            "computer"
+        ],
+        "objectSid": [
+            "S-1-5-21-2284526575-3220193634-2291435605-7198"
+        ],
+        "operatingSystem": [
+            "Windows Server 2012 R2 Datacenter"
+        ],
+        "operatingSystemServicePack": [],
+        "operatingSystemVersion": [
+            "6.3 (9600)"
+        ],
+        "sAMAccountName": [
+            "HO-TESTIBOM-SV$"
+        ],
+        "userAccountControl": [
+            4096
+        ],
+        "whenCreated": [
+            "2018-04-06 07:05:30+00:00"
+        ]
+    },
+    "dn": "CN=HO-TESTIBOM-SV,CN=Computers,DC=hawee,DC=local"
+},{
+    "attributes": {
+        "cn": [
+            "AF-DATTT-IDC"
+        ],
+        "dNSHostName": [
+            "AF-DatTT-IDC.hawee.local"
+        ],
+        "description": [],
+        "lastLogon": [
+            "2019-03-14 01:00:05.835640+00:00"
+        ],
+        "objectClass": [
+            "top",
+            "person",
+            "organizationalPerson",
+            "user",
+            "computer"
+        ],
+        "objectSid": [
+            "S-1-5-21-2284526575-3220193634-2291435605-6068"
+        ],
+        "operatingSystem": [
+            "Windows 10 Enterprise"
+        ],
+        "operatingSystemServicePack": [],
+        "operatingSystemVersion": [
+            "10.0 (17763)"
+        ],
+        "sAMAccountName": [
+            "AF-DATTT-IDC$"
+        ],
+        "userAccountControl": [
+            4096
+        ],
+        "whenCreated": [
+            "2018-01-12 03:04:32+00:00"
+        ]
+    },
+    "dn": "CN=AF-DATTT-IDC,CN=Computers,DC=hawee,DC=local"
+},{
+    "attributes": {
+        "cn": [
+            "HW-KTME-TTAP"
+        ],
+        "dNSHostName": [
+            "HW-KTME-TTap.hawee.local"
+        ],
+        "description": [],
+        "lastLogon": [
+            "2018-01-05 08:15:53.748337+00:00"
+        ],
+        "objectClass": [
+            "top",
+            "person",
+            "organizationalPerson",
+            "user",
+            "computer"
+        ],
+        "objectSid": [
+            "S-1-5-21-2284526575-3220193634-2291435605-6065"
+        ],
+        "operatingSystem": [
+            "Windows 10 Enterprise"
+        ],
+        "operatingSystemServicePack": [],
+        "operatingSystemVersion": [
+            "10.0 (10586)"
+        ],
+        "sAMAccountName": [
+            "HW-KTME-TTAP$"
+        ],
+        "userAccountControl": [
+            4098
+        ],
+        "whenCreated": [
+            "2017-12-26 04:31:53+00:00"
+        ]
+    },
+    "dn": "CN=HW-KTME-TTAP,OU=Computers,OU=HWME,DC=hawee,DC=local"
+},{
+    "attributes": {
+        "cn": [
+            "HO-TESTAX-SV"
+        ],
+        "dNSHostName": [
+            "HO-TestAX-SV.hawee.local"
+        ],
+        "description": [],
+        "lastLogon": [
+            "2018-04-16 22:29:54.232801+00:00"
+        ],
+        "objectClass": [
+            "top",
+            "person",
+            "organizationalPerson",
+            "user",
+            "computer"
+        ],
+        "objectSid": [
+            "S-1-5-21-2284526575-3220193634-2291435605-6529"
+        ],
+        "operatingSystem": [
+            "Windows Server 2012 R2 Datacenter"
+        ],
+        "operatingSystemServicePack": [],
+        "operatingSystemVersion": [
+            "6.3 (9600)"
+        ],
+        "sAMAccountName": [
+            "HO-TESTAX-SV$"
+        ],
+        "userAccountControl": [
+            4096
+        ],
+        "whenCreated": [
+            "2017-12-07 09:35:41+00:00"
+        ]
+    },
+    "dn": "CN=HO-TESTAX-SV,CN=Computers,DC=hawee,DC=local"
+},{
+    "attributes": {
+        "cn": [
+            "HO-WEBKT01-SV"
+        ],
+        "dNSHostName": [
+            "HO-WEBKT01-SV.hawee.local"
+        ],
+        "description": [],
+        "lastLogon": [
+            "2019-03-14 01:41:27.777435+00:00"
+        ],
+        "objectClass": [
+            "top",
+            "person",
+            "organizationalPerson",
+            "user",
+            "computer"
+        ],
+        "objectSid": [
+            "S-1-5-21-2284526575-3220193634-2291435605-5961"
+        ],
+        "operatingSystem": [
+            "Windows Server 2012 R2 Datacenter"
+        ],
+        "operatingSystemServicePack": [],
+        "operatingSystemVersion": [
+            "6.3 (9600)"
+        ],
+        "sAMAccountName": [
+            "HO-WEBKT01-SV$"
+        ],
+        "userAccountControl": [
+            4096
+        ],
+        "whenCreated": [
+            "2017-11-22 06:40:39+00:00"
+        ]
+    },
+    "dn": "CN=HO-WEBKT01-SV,OU=Computers,OU=HWHO,DC=hawee,DC=local"
+},{
+    "attributes": {
+        "cn": [
+            "HO-VEEAM-SV"
+        ],
+        "dNSHostName": [
+            "HO-Veeam-SV.hawee.local"
+        ],
+        "description": [],
+        "lastLogon": [
+            "2019-03-13 23:19:10.863728+00:00"
+        ],
+        "objectClass": [
+            "top",
+            "person",
+            "organizationalPerson",
+            "user",
+            "computer"
+        ],
+        "objectSid": [
+            "S-1-5-21-2284526575-3220193634-2291435605-6520"
+        ],
+        "operatingSystem": [
+            "Windows Server 2012 R2 Datacenter"
+        ],
+        "operatingSystemServicePack": [],
+        "operatingSystemVersion": [
+            "6.3 (9600)"
+        ],
+        "sAMAccountName": [
+            "HO-VEEAM-SV$"
+        ],
+        "userAccountControl": [
+            4096
+        ],
+        "whenCreated": [
+            "2017-11-09 02:08:31+00:00"
+        ]
+    },
+    "dn": "CN=HO-VEEAM-SV,OU=Computers,OU=HWHO,DC=hawee,DC=local"
+},{
+    "attributes": {
+        "cn": [
+            "KT-TEST03"
+        ],
+        "dNSHostName": [
+            "kt-test03.hawee.local"
+        ],
+        "description": [],
+        "lastLogon": [
+            "2018-05-22 13:33:22.428761+00:00"
+        ],
+        "objectClass": [
+            "top",
+            "person",
+            "organizationalPerson",
+            "user",
+            "computer"
+        ],
+        "objectSid": [
+            "S-1-5-21-2284526575-3220193634-2291435605-5910"
+        ],
+        "operatingSystem": [
+            "Windows 10 Enterprise"
+        ],
+        "operatingSystemServicePack": [],
+        "operatingSystemVersion": [
+            "10.0 (10586)"
+        ],
+        "sAMAccountName": [
+            "KT-TEST03$"
+        ],
+        "userAccountControl": [
+            4096
+        ],
+        "whenCreated": [
+            "2017-10-31 03:25:58+00:00"
+        ]
+    },
+    "dn": "CN=KT-TEST03,OU=Computers,OU=HWME,DC=hawee,DC=local"
+},{
+    "attributes": {
+        "cn": [
+            "KT-TEST02"
+        ],
+        "dNSHostName": [
+            "kt-test02.hawee.local"
+        ],
+        "description": [],
+        "lastLogon": [
+            "2018-03-09 04:12:16.302511+00:00"
+        ],
+        "objectClass": [
+            "top",
+            "person",
+            "organizationalPerson",
+            "user",
+            "computer"
+        ],
+        "objectSid": [
+            "S-1-5-21-2284526575-3220193634-2291435605-6510"
+        ],
+        "operatingSystem": [
+            "Windows 10 Enterprise"
+        ],
+        "operatingSystemServicePack": [],
+        "operatingSystemVersion": [
+            "10.0 (10586)"
+        ],
+        "sAMAccountName": [
+            "KT-TEST02$"
+        ],
+        "userAccountControl": [
+            4096
+        ],
+        "whenCreated": [
+            "2017-10-31 03:03:46+00:00"
+        ]
+    },
+    "dn": "CN=KT-TEST02,OU=Computers,OU=HWME,DC=hawee,DC=local"
+},{
+    "attributes": {
+        "cn": [
+            "KT-TEST01"
+        ],
+        "dNSHostName": [
+            "kt-test01.hawee.local"
+        ],
+        "description": [],
+        "lastLogon": [
+            "2019-03-14 01:49:10.795540+00:00"
+        ],
+        "objectClass": [
+            "top",
+            "person",
+            "organizationalPerson",
+            "user",
+            "computer"
+        ],
+        "objectSid": [
+            "S-1-5-21-2284526575-3220193634-2291435605-6509"
+        ],
+        "operatingSystem": [
+            "Windows 10 Pro"
+        ],
+        "operatingSystemServicePack": [],
+        "operatingSystemVersion": [
+            "10.0 (17763)"
+        ],
+        "sAMAccountName": [
+            "KT-TEST01$"
+        ],
+        "userAccountControl": [
+            4096
+        ],
+        "whenCreated": [
+            "2017-10-31 02:21:50+00:00"
+        ]
+    },
+    "dn": "CN=KT-TEST01,OU=Computers,OU=HWME,DC=hawee,DC=local"
+},{
+    "attributes": {
+        "cn": [
+            "HO-RADIUS-SV"
+        ],
+        "dNSHostName": [
+            "HO-Radius-SV.hawee.local"
+        ],
+        "description": [],
+        "lastLogon": [
+            "2019-03-13 22:53:13.029768+00:00"
+        ],
+        "objectClass": [
+            "top",
+            "person",
+            "organizationalPerson",
+            "user",
+            "computer"
+        ],
+        "objectSid": [
+            "S-1-5-21-2284526575-3220193634-2291435605-5904"
+        ],
+        "operatingSystem": [
+            "Windows Server 2012 R2 Datacenter"
+        ],
+        "operatingSystemServicePack": [],
+        "operatingSystemVersion": [
+            "6.3 (9600)"
+        ],
+        "sAMAccountName": [
+            "HO-RADIUS-SV$"
+        ],
+        "userAccountControl": [
+            4096
+        ],
+        "whenCreated": [
+            "2017-10-24 04:43:11+00:00"
+        ]
+    },
+    "dn": "CN=HO-RADIUS-SV,OU=Computers,OU=HWHO,DC=hawee,DC=local"
+},{
+    "attributes": {
+        "cn": [
+            "HW-KTME-HUONGNL"
+        ],
+        "dNSHostName": [
+            "HW-KTME-HUONGNL.hawee.local"
+        ],
+        "description": [],
+        "lastLogon": [
+            "2019-03-13 01:27:11.251505+00:00"
+        ],
+        "objectClass": [
+            "top",
+            "person",
+            "organizationalPerson",
+            "user",
+            "computer"
+        ],
+        "objectSid": [
+            "S-1-5-21-2284526575-3220193634-2291435605-6507"
+        ],
+        "operatingSystem": [
+            "Windows 10 Pro"
+        ],
+        "operatingSystemServicePack": [],
+        "operatingSystemVersion": [
+            "10.0 (17763)"
+        ],
+        "sAMAccountName": [
+            "HW-KTME-HUONGNL$"
+        ],
+        "userAccountControl": [
+            4096
+        ],
+        "whenCreated": [
+            "2017-10-13 02:04:58+00:00"
+        ]
+    },
+    "dn": "CN=HW-KTME-HUONGNL,OU=Computers,OU=HWME,DC=hawee,DC=local"
+},{
+    "attributes": {
+        "cn": [
+            "HOADT"
+        ],
+        "dNSHostName": [
+            "hoadt.hawee.local"
+        ],
+        "description": [],
+        "lastLogon": [
+            "2017-10-07 08:53:19.105261+00:00"
+        ],
+        "objectClass": [
+            "top",
+            "person",
+            "organizationalPerson",
+            "user",
+            "computer"
+        ],
+        "objectSid": [
+            "S-1-5-21-2284526575-3220193634-2291435605-5820"
+        ],
+        "operatingSystem": [
+            "Windows Server 2012 R2 Datacenter"
+        ],
+        "operatingSystemServicePack": [],
+        "operatingSystemVersion": [
+            "6.3 (9600)"
+        ],
+        "sAMAccountName": [
+            "HOADT$"
+        ],
+        "userAccountControl": [
+            4096
+        ],
+        "whenCreated": [
+            "2017-10-06 06:34:14+00:00"
+        ]
+    },
+    "dn": "CN=HOADT,CN=Computers,DC=hawee,DC=local"
+},{
+    "attributes": {
+        "cn": [
+            "HO-NETWORK-SV"
+        ],
+        "dNSHostName": [
+            "HO-NETWORK-SV.hawee.local"
+        ],
+        "description": [],
+        "lastLogon": [
+            "2019-03-13 12:48:26.206032+00:00"
+        ],
+        "objectClass": [
+            "top",
+            "person",
+            "organizationalPerson",
+            "user",
+            "computer"
+        ],
+        "objectSid": [
+            "S-1-5-21-2284526575-3220193634-2291435605-6445"
+        ],
+        "operatingSystem": [
+            "Windows Server 2012 R2 Datacenter"
+        ],
+        "operatingSystemServicePack": [],
+        "operatingSystemVersion": [
+            "6.3 (9600)"
+        ],
+        "sAMAccountName": [
+            "HO-NETWORK-SV$"
+        ],
+        "userAccountControl": [
+            4096
+        ],
+        "whenCreated": [
+            "2017-09-28 10:23:56+00:00"
+        ]
+    },
+    "dn": "CN=HO-NETWORK-SV,CN=Computers,DC=hawee,DC=local"
+},{
+    "attributes": {
+        "cn": [
+            "HW-NGOCKT-ME"
+        ],
+        "dNSHostName": [
+            "Hw-NgocKT-Me.hawee.local"
+        ],
+        "description": [],
+        "lastLogon": [
+            "2019-03-14 01:22:44.458748+00:00"
+        ],
+        "objectClass": [
+            "top",
+            "person",
+            "organizationalPerson",
+            "user",
+            "computer"
+        ],
+        "objectSid": [
+            "S-1-5-21-2284526575-3220193634-2291435605-5800"
+        ],
+        "operatingSystem": [
+            "Windows 10 Enterprise"
+        ],
+        "operatingSystemServicePack": [],
+        "operatingSystemVersion": [
+            "10.0 (17134)"
+        ],
+        "sAMAccountName": [
+            "HW-NGOCKT-ME$"
+        ],
+        "userAccountControl": [
+            4096
+        ],
+        "whenCreated": [
+            "2017-09-22 06:19:46+00:00"
+        ]
+    },
+    "dn": "CN=HW-NGOCKT-ME,OU=Computers,OU=HWME,DC=hawee,DC=local"
+},{
+    "attributes": {
+        "cn": [
+            "HO-DBKT-SV"
+        ],
+        "dNSHostName": [
+            "HO-DBKT-SV.hawee.local"
+        ],
+        "description": [
+            "Failover cluster virtual network name account"
+        ],
+        "lastLogon": [
+            "2019-03-12 07:08:17.003075+00:00"
+        ],
+        "objectClass": [
+            "top",
+            "person",
+            "organizationalPerson",
+            "user",
+            "computer"
+        ],
+        "objectSid": [
+            "S-1-5-21-2284526575-3220193634-2291435605-5799"
+        ],
+        "operatingSystem": [],
+        "operatingSystemServicePack": [],
+        "operatingSystemVersion": [],
+        "sAMAccountName": [
+            "HO-DBKT-SV$"
+        ],
+        "userAccountControl": [
+            4096
+        ],
+        "whenCreated": [
+            "2017-09-20 05:55:54+00:00"
+        ]
+    },
+    "dn": "CN=HO-DBKT-SV,CN=Computers,DC=hawee,DC=local"
+},{
+    "attributes": {
+        "cn": [
+            "HO-CLTRKT-SV"
+        ],
+        "dNSHostName": [
+            "HO-CLTRKT-SV.hawee.local"
+        ],
+        "description": [
+            "Failover cluster virtual network name account"
+        ],
+        "lastLogon": [
+            "2019-02-16 18:03:46.001427+00:00"
+        ],
+        "objectClass": [
+            "top",
+            "person",
+            "organizationalPerson",
+            "user",
+            "computer"
+        ],
+        "objectSid": [
+            "S-1-5-21-2284526575-3220193634-2291435605-6425"
+        ],
+        "operatingSystem": [
+            "Windows Server 2012 R2 Standard"
+        ],
+        "operatingSystemServicePack": [],
+        "operatingSystemVersion": [
+            "6.3 (9600)"
+        ],
+        "sAMAccountName": [
+            "HO-CLTRKT-SV$"
+        ],
+        "userAccountControl": [
+            4096
+        ],
+        "whenCreated": [
+            "2017-09-20 04:36:21+00:00"
+        ]
+    },
+    "dn": "CN=HO-CLTRKT-SV,CN=Computers,DC=hawee,DC=local"
+},{
+    "attributes": {
+        "cn": [
+            "HO-REPOR-SV"
+        ],
+        "dNSHostName": [
+            "HO-REPOR-SV.hawee.local"
+        ],
+        "description": [],
+        "lastLogon": [
+            "2019-03-13 09:30:52.082010+00:00"
+        ],
+        "objectClass": [
+            "top",
+            "person",
+            "organizationalPerson",
+            "user",
+            "computer"
+        ],
+        "objectSid": [
+            "S-1-5-21-2284526575-3220193634-2291435605-5797"
+        ],
+        "operatingSystem": [
+            "Windows Server 2012 R2 Standard"
+        ],
+        "operatingSystemServicePack": [],
+        "operatingSystemVersion": [
+            "6.3 (9600)"
+        ],
+        "sAMAccountName": [
+            "HO-REPOR-SV$"
+        ],
+        "userAccountControl": [
+            4096
+        ],
+        "whenCreated": [
+            "2017-09-19 09:22:47+00:00"
+        ]
+    },
+    "dn": "CN=HO-REPOR-SV,OU=Computers,OU=HWHO,DC=hawee,DC=local"
+},{
+    "attributes": {
+        "cn": [
+            "HO-DBKT02-SV"
+        ],
+        "dNSHostName": [
+            "HO-DBKT02-SV.hawee.local"
+        ],
+        "description": [],
+        "lastLogon": [
+            "2019-03-13 01:31:11.766790+00:00"
+        ],
+        "objectClass": [
+            "top",
+            "person",
+            "organizationalPerson",
+            "user",
+            "computer"
+        ],
+        "objectSid": [
+            "S-1-5-21-2284526575-3220193634-2291435605-5796"
+        ],
+        "operatingSystem": [
+            "Windows Server 2012 R2 Standard"
+        ],
+        "operatingSystemServicePack": [],
+        "operatingSystemVersion": [
+            "6.3 (9600)"
+        ],
+        "sAMAccountName": [
+            "HO-DBKT02-SV$"
+        ],
+        "userAccountControl": [
+            4096
+        ],
+        "whenCreated": [
+            "2017-09-19 09:19:05+00:00"
+        ]
+    },
+    "dn": "CN=HO-DBKT02-SV,OU=Computers,OU=HWHO,DC=hawee,DC=local"
+},{
+    "attributes": {
+        "cn": [
+            "HO-DBKT01-SV"
+        ],
+        "dNSHostName": [
+            "HO-DBKT01-SV.hawee.local"
+        ],
+        "description": [],
+        "lastLogon": [
+            "2019-03-14 01:30:55.314932+00:00"
+        ],
+        "objectClass": [
+            "top",
+            "person",
+            "organizationalPerson",
+            "user",
+            "computer"
+        ],
+        "objectSid": [
+            "S-1-5-21-2284526575-3220193634-2291435605-6423"
+        ],
+        "operatingSystem": [
+            "Windows Server 2012 R2 Standard"
+        ],
+        "operatingSystemServicePack": [],
+        "operatingSystemVersion": [
+            "6.3 (9600)"
+        ],
+        "sAMAccountName": [
+            "HO-DBKT01-SV$"
+        ],
+        "userAccountControl": [
+            4096
+        ],
+        "whenCreated": [
+            "2017-09-19 09:10:32+00:00"
+        ]
+    },
+    "dn": "CN=HO-DBKT01-SV,OU=Computers,OU=HWHO,DC=hawee,DC=local"
+},{
+    "attributes": {
+        "cn": [
+            "HO-APPKT02-SV"
+        ],
+        "dNSHostName": [
+            "HO-APPKT02-SV.hawee.local"
+        ],
+        "description": [],
+        "lastLogon": [
+            "2019-03-14 01:54:27.483704+00:00"
+        ],
+        "objectClass": [
+            "top",
+            "person",
+            "organizationalPerson",
+            "user",
+            "computer"
+        ],
+        "objectSid": [
+            "S-1-5-21-2284526575-3220193634-2291435605-6422"
+        ],
+        "operatingSystem": [
+            "Windows Server 2012 R2 Standard"
+        ],
+        "operatingSystemServicePack": [],
+        "operatingSystemVersion": [
+            "6.3 (9600)"
+        ],
+        "sAMAccountName": [
+            "HO-APPKT02-SV$"
+        ],
+        "userAccountControl": [
+            4096
+        ],
+        "whenCreated": [
+            "2017-09-19 09:01:52+00:00"
+        ]
+    },
+    "dn": "CN=HO-APPKT02-SV,OU=Computers,OU=HWHO,DC=hawee,DC=local"
+},{
+    "attributes": {
+        "cn": [
+            "HO-APPKT01-SV"
+        ],
+        "dNSHostName": [
+            "HO-APPKT01-SV.hawee.local"
+        ],
+        "description": [],
+        "lastLogon": [
+            "2019-03-13 22:40:31.597757+00:00"
+        ],
+        "objectClass": [
+            "top",
+            "person",
+            "organizationalPerson",
+            "user",
+            "computer"
+        ],
+        "objectSid": [
+            "S-1-5-21-2284526575-3220193634-2291435605-5795"
+        ],
+        "operatingSystem": [
+            "Windows Server 2012 R2 Standard"
+        ],
+        "operatingSystemServicePack": [],
+        "operatingSystemVersion": [
+            "6.3 (9600)"
+        ],
+        "sAMAccountName": [
+            "HO-APPKT01-SV$"
+        ],
+        "userAccountControl": [
+            4096
+        ],
+        "whenCreated": [
+            "2017-09-19 08:48:56+00:00"
+        ]
+    },
+    "dn": "CN=HO-APPKT01-SV,OU=Computers,OU=HWHO,DC=hawee,DC=local"
+},{
+    "attributes": {
+        "cn": [
+            "HO-CLTRDB-SV"
+        ],
+        "dNSHostName": [
+            "HO-CLTRDB-SV.hawee.local"
+        ],
+        "description": [
+            "Failover cluster virtual network name account"
+        ],
+        "lastLogon": [
+            "2017-09-19 04:14:38.819416+00:00"
+        ],
+        "objectClass": [
+            "top",
+            "person",
+            "organizationalPerson",
+            "user",
+            "computer"
+        ],
+        "objectSid": [
+            "S-1-5-21-2284526575-3220193634-2291435605-6405"
+        ],
+        "operatingSystem": [
+            "Windows Server 2012 R2 Standard"
+        ],
+        "operatingSystemServicePack": [],
+        "operatingSystemVersion": [
+            "6.3 (9600)"
+        ],
+        "sAMAccountName": [
+            "HO-CLTRDB-SV$"
+        ],
+        "userAccountControl": [
+            4096
+        ],
+        "whenCreated": [
+            "2017-09-16 04:41:50+00:00"
+        ]
+    },
+    "dn": "CN=HO-CLTRDB-SV,CN=Computers,DC=hawee,DC=local"
+},{
+    "attributes": {
+        "cn": [
+            "TEST_AX"
+        ],
+        "dNSHostName": [
+            "test_AX.hawee.local"
+        ],
+        "description": [],
+        "lastLogon": [
+            "2017-09-27 02:22:34.831615+00:00"
+        ],
+        "objectClass": [
+            "top",
+            "person",
+            "organizationalPerson",
+            "user",
+            "computer"
+        ],
+        "objectSid": [
+            "S-1-5-21-2284526575-3220193634-2291435605-6336"
+        ],
+        "operatingSystem": [
+            "Windows 10 Pro"
+        ],
+        "operatingSystemServicePack": [],
+        "operatingSystemVersion": [
+            "10.0 (15063)"
+        ],
+        "sAMAccountName": [
+            "TEST_AX$"
+        ],
+        "userAccountControl": [
+            4096
+        ],
+        "whenCreated": [
+            "2017-08-25 02:12:02+00:00"
+        ]
+    },
+    "dn": "CN=TEST_AX,CN=Computers,DC=hawee,DC=local"
+},{
+    "attributes": {
+        "cn": [
+            "AF-THETB-ME"
+        ],
+        "dNSHostName": [
+            "AF-TheTB-ME.hawee.local"
+        ],
+        "description": [],
+        "lastLogon": [
+            "2019-03-14 01:01:51.648972+00:00"
+        ],
+        "objectClass": [
+            "top",
+            "person",
+            "organizationalPerson",
+            "user",
+            "computer"
+        ],
+        "objectSid": [
+            "S-1-5-21-2284526575-3220193634-2291435605-5767"
+        ],
+        "operatingSystem": [
+            "Windows 10 Education"
+        ],
+        "operatingSystemServicePack": [],
+        "operatingSystemVersion": [
+            "10.0 (17763)"
+        ],
+        "sAMAccountName": [
+            "AF-THETB-ME$"
+        ],
+        "userAccountControl": [
+            4096
+        ],
+        "whenCreated": [
+            "2017-08-21 08:08:42+00:00"
+        ]
+    },
+    "dn": "CN=AF-THETB-ME,OU=Computers,OU=HWME,DC=hawee,DC=local"
+},{
+    "attributes": {
+        "cn": [
+            "HWME-TK-NGA"
+        ],
+        "dNSHostName": [
+            "HWME-TK-Nga.hawee.local"
+        ],
+        "description": [],
+        "lastLogon": [
+            "2018-12-24 08:05:23.322220+00:00"
+        ],
+        "objectClass": [
+            "top",
+            "person",
+            "organizationalPerson",
+            "user",
+            "computer"
+        ],
+        "objectSid": [
+            "S-1-5-21-2284526575-3220193634-2291435605-5764"
+        ],
+        "operatingSystem": [
+            "Windows 10 Enterprise"
+        ],
+        "operatingSystemServicePack": [],
+        "operatingSystemVersion": [
+            "10.0 (17134)"
+        ],
+        "sAMAccountName": [
+            "HWME-TK-NGA$"
+        ],
+        "userAccountControl": [
+            4098
+        ],
+        "whenCreated": [
+            "2017-08-10 06:27:18+00:00"
+        ]
+    },
+    "dn": "CN=HWME-TK-NGA,OU=Computers,OU=HWME,DC=hawee,DC=local"
+},{
+    "attributes": {
+        "cn": [
+            "HO-KTAPP01-SV"
+        ],
+        "dNSHostName": [
+            "HO-KTAPP01-SV.hawee.local"
+        ],
+        "description": [],
+        "lastLogon": [
+            "2019-03-14 01:29:22.766695+00:00"
+        ],
+        "objectClass": [
+            "top",
+            "person",
+            "organizationalPerson",
+            "user",
+            "computer"
+        ],
+        "objectSid": [
+            "S-1-5-21-2284526575-3220193634-2291435605-5753"
+        ],
+        "operatingSystem": [
+            "Windows Server 2012 R2 Standard"
+        ],
+        "operatingSystemServicePack": [],
+        "operatingSystemVersion": [
+            "6.3 (9600)"
+        ],
+        "sAMAccountName": [
+            "HO-KTAPP01-SV$"
+        ],
+        "userAccountControl": [
+            4096
+        ],
+        "whenCreated": [
+            "2017-08-04 04:02:33+00:00"
+        ]
+    },
+    "dn": "CN=HO-KTAPP01-SV,OU=Computers,OU=HWHO,DC=hawee,DC=local"
+},{
+    "attributes": {
+        "cn": [
+            "HW-KTME-HOANG"
+        ],
+        "dNSHostName": [
+            "HW-KTME-HOANG.hawee.local"
+        ],
+        "description": [],
+        "lastLogon": [
+            "2019-03-13 09:32:02.396881+00:00"
+        ],
+        "objectClass": [
+            "top",
+            "person",
+            "organizationalPerson",
+            "user",
+            "computer"
+        ],
+        "objectSid": [
+            "S-1-5-21-2284526575-3220193634-2291435605-5752"
+        ],
+        "operatingSystem": [
+            "Windows 7 Ultimate"
+        ],
+        "operatingSystemServicePack": [
+            "Service Pack 1"
+        ],
+        "operatingSystemVersion": [
+            "6.1 (7601)"
+        ],
+        "sAMAccountName": [
+            "HW-KTME-HOANG$"
+        ],
+        "userAccountControl": [
+            4096
+        ],
+        "whenCreated": [
+            "2017-08-03 02:36:24+00:00"
+        ]
+    },
+    "dn": "CN=HW-KTME-HOANG,OU=Computers,OU=HWME,DC=hawee,DC=local"
+},{
+    "attributes": {
+        "cn": [
+            "KHANHHQ-QLDT"
+        ],
+        "dNSHostName": [
+            "KhanhHQ-QLDT.hawee.local"
+        ],
+        "description": [],
+        "lastLogon": [
+            "2019-03-13 13:05:06.588877+00:00"
+        ],
+        "objectClass": [
+            "top",
+            "person",
+            "organizationalPerson",
+            "user",
+            "computer"
+        ],
+        "objectSid": [
+            "S-1-5-21-2284526575-3220193634-2291435605-5741"
+        ],
+        "operatingSystem": [
+            "Windows 10 Enterprise"
+        ],
+        "operatingSystemServicePack": [],
+        "operatingSystemVersion": [
+            "10.0 (17763)"
+        ],
+        "sAMAccountName": [
+            "KHANHHQ-QLDT$"
+        ],
+        "userAccountControl": [
+            4096
+        ],
+        "whenCreated": [
+            "2017-07-25 03:44:38+00:00"
+        ]
+    },
+    "dn": "CN=KHANHHQ-QLDT,OU=Computers,OU=HWME,DC=hawee,DC=local"
+},{
+    "attributes": {
+        "cn": [
+            "HW-MEKT-THUONG"
+        ],
+        "dNSHostName": [
+            "HW-MEKT-Thuong.hawee.local"
+        ],
+        "description": [],
+        "lastLogon": [
+            "2018-08-06 01:52:45.515154+00:00"
+        ],
+        "objectClass": [
+            "top",
+            "person",
+            "organizationalPerson",
+            "user",
+            "computer"
+        ],
+        "objectSid": [
+            "S-1-5-21-2284526575-3220193634-2291435605-5662"
+        ],
+        "operatingSystem": [
+            "Windows 10 Enterprise"
+        ],
+        "operatingSystemServicePack": [],
+        "operatingSystemVersion": [
+            "10.0 (17134)"
+        ],
+        "sAMAccountName": [
+            "HW-MEKT-THUONG$"
+        ],
+        "userAccountControl": [
+            4096
+        ],
+        "whenCreated": [
+            "2017-07-11 02:13:46+00:00"
+        ]
+    },
+    "dn": "CN=HW-MEKT-THUONG,OU=Computers,OU=HWME,DC=hawee,DC=local"
+},{
+    "attributes": {
+        "cn": [
+            "HO-KTDB01-SV"
+        ],
+        "dNSHostName": [
+            "HO-KTDB01-SV.hawee.local"
+        ],
+        "description": [],
+        "lastLogon": [
+            "2019-03-13 01:29:52.807983+00:00"
+        ],
+        "objectClass": [
+            "top",
+            "person",
+            "organizationalPerson",
+            "user",
+            "computer"
+        ],
+        "objectSid": [
+            "S-1-5-21-2284526575-3220193634-2291435605-6138"
+        ],
+        "operatingSystem": [
+            "Windows Server 2012 R2 Standard"
+        ],
+        "operatingSystemServicePack": [],
+        "operatingSystemVersion": [
+            "6.3 (9600)"
+        ],
+        "sAMAccountName": [
+            "HO-KTDB01-SV$"
+        ],
+        "userAccountControl": [
+            4096
+        ],
+        "whenCreated": [
+            "2017-07-08 07:59:06+00:00"
+        ]
+    },
+    "dn": "CN=HO-KTDB01-SV,OU=Computers,OU=HWHO,DC=hawee,DC=local"
+},{
+    "attributes": {
+        "cn": [
+            "HW-KTME-DUONG"
+        ],
+        "dNSHostName": [
+            "HW-KTME-Duong.hawee.local"
+        ],
+        "description": [],
+        "lastLogon": [
+            "2019-03-13 21:00:25.210133+00:00"
+        ],
+        "objectClass": [
+            "top",
+            "person",
+            "organizationalPerson",
+            "user",
+            "computer"
+        ],
+        "objectSid": [
+            "S-1-5-21-2284526575-3220193634-2291435605-3599"
+        ],
+        "operatingSystem": [
+            "Windows 10 Enterprise"
+        ],
+        "operatingSystemServicePack": [],
+        "operatingSystemVersion": [
+            "10.0 (15063)"
+        ],
+        "sAMAccountName": [
+            "HW-KTME-DUONG$"
+        ],
+        "userAccountControl": [
+            4096
+        ],
+        "whenCreated": [
+            "2017-06-27 10:08:54+00:00"
+        ]
+    },
+    "dn": "CN=HW-KTME-DUONG,OU=Computers,OU=HWME,DC=hawee,DC=local"
+},{
+    "attributes": {
+        "cn": [
+            "HW-KTME-HAINTT"
+        ],
+        "dNSHostName": [
+            "HW-KTME-HAINTT.hawee.local"
+        ],
+        "description": [],
+        "lastLogon": [
+            "2019-02-14 00:25:05.857519+00:00"
+        ],
+        "objectClass": [
+            "top",
+            "person",
+            "organizationalPerson",
+            "user",
+            "computer"
+        ],
+        "objectSid": [
+            "S-1-5-21-2284526575-3220193634-2291435605-3597"
+        ],
+        "operatingSystem": [
+            "Windows 7 Ultimate"
+        ],
+        "operatingSystemServicePack": [
+            "Service Pack 1"
+        ],
+        "operatingSystemVersion": [
+            "6.1 (7601)"
+        ],
+        "sAMAccountName": [
+            "HW-KTME-HAINTT$"
+        ],
+        "userAccountControl": [
+            4096
+        ],
+        "whenCreated": [
+            "2017-06-27 06:47:01+00:00"
+        ]
+    },
+    "dn": "CN=HW-KTME-HAINTT,OU=Computers,OU=HWME,DC=hawee,DC=local"
+},{
+    "attributes": {
+        "cn": [
+            "HW-KTIDC-DAT"
+        ],
+        "dNSHostName": [
+            "HW-KTIDC-Dat.hawee.local"
+        ],
+        "description": [],
+        "lastLogon": [
+            "2018-01-15 01:15:15.388918+00:00"
+        ],
+        "objectClass": [
+            "top",
+            "person",
+            "organizationalPerson",
+            "user",
+            "computer"
+        ],
+        "objectSid": [
+            "S-1-5-21-2284526575-3220193634-2291435605-6135"
+        ],
+        "operatingSystem": [
+            "Windows 10 Enterprise"
+        ],
+        "operatingSystemServicePack": [],
+        "operatingSystemVersion": [
+            "10.0 (16299)"
+        ],
+        "sAMAccountName": [
+            "HW-KTIDC-DAT$"
+        ],
+        "userAccountControl": [
+            4096
+        ],
+        "whenCreated": [
+            "2017-06-26 08:11:38+00:00"
+        ]
+    },
+    "dn": "CN=HW-KTIDC-DAT,OU=Computers,OU=HWIDC,DC=hawee,DC=local"
+},{
+    "attributes": {
+        "cn": [
+            "HW-KTIDC-HA"
+        ],
+        "dNSHostName": [
+            "HW-KTIDC-HA.hawee.local"
+        ],
+        "description": [],
+        "lastLogon": [
+            "2019-03-04 07:51:12.683140+00:00"
+        ],
+        "objectClass": [
+            "top",
+            "person",
+            "organizationalPerson",
+            "user",
+            "computer"
+        ],
+        "objectSid": [
+            "S-1-5-21-2284526575-3220193634-2291435605-6134"
+        ],
+        "operatingSystem": [
+            "Windows 10 Education"
+        ],
+        "operatingSystemServicePack": [],
+        "operatingSystemVersion": [
+            "10.0 (17763)"
+        ],
+        "sAMAccountName": [
+            "HW-KTIDC-HA$"
+        ],
+        "userAccountControl": [
+            4096
+        ],
+        "whenCreated": [
+            "2017-06-26 07:41:37+00:00"
+        ]
+    },
+    "dn": "CN=HW-KTIDC-HA,OU=Computers,OU=HWIDC,DC=hawee,DC=local"
+},{
+    "attributes": {
+        "cn": [
+            "HW-KTIDC-VAN"
+        ],
+        "dNSHostName": [
+            "HW-KTIDC-VAN.hawee.local"
+        ],
+        "description": [],
+        "lastLogon": [
+            "2019-03-09 01:19:16.355791+00:00"
+        ],
+        "objectClass": [
+            "top",
+            "person",
+            "organizationalPerson",
+            "user",
+            "computer"
+        ],
+        "objectSid": [
+            "S-1-5-21-2284526575-3220193634-2291435605-3596"
+        ],
+        "operatingSystem": [
+            "Windows 10 Pro"
+        ],
+        "operatingSystemServicePack": [],
+        "operatingSystemVersion": [
+            "10.0 (17134)"
+        ],
+        "sAMAccountName": [
+            "HW-KTIDC-VAN$"
+        ],
+        "userAccountControl": [
+            4096
+        ],
+        "whenCreated": [
+            "2017-06-26 07:20:57+00:00"
+        ]
+    },
+    "dn": "CN=HW-KTIDC-VAN,OU=Computers,OU=HWIDC,DC=hawee,DC=local"
+},{
+    "attributes": {
+        "cn": [
+            "HW-KTME-SON"
+        ],
+        "dNSHostName": [
+            "HW-KTME-SON.hawee.local"
+        ],
+        "description": [],
+        "lastLogon": [
+            "2019-02-27 02:39:32.408880+00:00"
+        ],
+        "objectClass": [
+            "top",
+            "person",
+            "organizationalPerson",
+            "user",
+            "computer"
+        ],
+        "objectSid": [
+            "S-1-5-21-2284526575-3220193634-2291435605-6124"
+        ],
+        "operatingSystem": [
+            "Windows 7 Ultimate"
+        ],
+        "operatingSystemServicePack": [
+            "Service Pack 1"
+        ],
+        "operatingSystemVersion": [
+            "6.1 (7601)"
+        ],
+        "sAMAccountName": [
+            "HW-KTME-SON$"
+        ],
+        "userAccountControl": [
+            4096
+        ],
+        "whenCreated": [
+            "2017-06-19 07:07:56+00:00"
+        ]
+    },
+    "dn": "CN=HW-KTME-SON,OU=Computers,OU=HWME,DC=hawee,DC=local"
+},{
+    "attributes": {
+        "cn": [
+            "HW-KTME-HUELT"
+        ],
+        "dNSHostName": [
+            "HW-KTME-HUELT.hawee.local"
+        ],
+        "description": [],
+        "lastLogon": [
+            "2018-07-10 07:36:20.651430+00:00"
+        ],
+        "objectClass": [
+            "top",
+            "person",
+            "organizationalPerson",
+            "user",
+            "computer"
+        ],
+        "objectSid": [
+            "S-1-5-21-2284526575-3220193634-2291435605-6123"
+        ],
+        "operatingSystem": [
+            "Windows 7 Ultimate"
+        ],
+        "operatingSystemServicePack": [
+            "Service Pack 1"
+        ],
+        "operatingSystemVersion": [
+            "6.1 (7601)"
+        ],
+        "sAMAccountName": [
+            "HW-KTME-HUELT$"
+        ],
+        "userAccountControl": [
+            4096
+        ],
+        "whenCreated": [
+            "2017-06-19 01:52:39+00:00"
+        ]
+    },
+    "dn": "CN=HW-KTME-HUELT,OU=Computers,OU=HWME,DC=hawee,DC=local"
+},{
+    "attributes": {
+        "cn": [
+            "HW-KTME-LYTT"
+        ],
+        "dNSHostName": [
+            "HW-KTME-LYTT.hawee.local"
+        ],
+        "description": [],
+        "lastLogon": [
+            "2019-03-14 02:56:05.663219+00:00"
+        ],
+        "objectClass": [
+            "top",
+            "person",
+            "organizationalPerson",
+            "user",
+            "computer"
+        ],
+        "objectSid": [
+            "S-1-5-21-2284526575-3220193634-2291435605-3569"
+        ],
+        "operatingSystem": [
+            "Windows 7 Ultimate"
+        ],
+        "operatingSystemServicePack": [
+            "Service Pack 1"
+        ],
+        "operatingSystemVersion": [
+            "6.1 (7601)"
+        ],
+        "sAMAccountName": [
+            "HW-KTME-LYTT$"
+        ],
+        "userAccountControl": [
+            4096
+        ],
+        "whenCreated": [
+            "2017-06-17 10:32:29+00:00"
+        ]
+    },
+    "dn": "CN=HW-KTME-LYTT,OU=Computers,OU=HWME,DC=hawee,DC=local"
+},{
+    "attributes": {
+        "cn": [
+            "HW-KTME-VAN"
+        ],
+        "dNSHostName": [
+            "HW-KTME-VAN.hawee.local"
+        ],
+        "description": [],
+        "lastLogon": [
+            "2019-03-14 01:01:06.866665+00:00"
+        ],
+        "objectClass": [
+            "top",
+            "person",
+            "organizationalPerson",
+            "user",
+            "computer"
+        ],
+        "objectSid": [
+            "S-1-5-21-2284526575-3220193634-2291435605-6121"
+        ],
+        "operatingSystem": [
+            "Windows 7 Professional"
+        ],
+        "operatingSystemServicePack": [
+            "Service Pack 1"
+        ],
+        "operatingSystemVersion": [
+            "6.1 (7601)"
+        ],
+        "sAMAccountName": [
+            "HW-KTME-VAN$"
+        ],
+        "userAccountControl": [
+            4096
+        ],
+        "whenCreated": [
+            "2017-06-17 10:32:21+00:00"
+        ]
+    },
+    "dn": "CN=HW-KTME-VAN,OU=Computers,OU=HWME,DC=hawee,DC=local"
+},{
+    "attributes": {
+        "cn": [
+            "HW-KTME-HIEUNM"
+        ],
+        "dNSHostName": [
+            "HW-KTME-HIEUNM.hawee.local"
+        ],
+        "description": [],
+        "lastLogon": [
+            "2019-03-13 23:24:16.481804+00:00"
+        ],
+        "objectClass": [
+            "top",
+            "person",
+            "organizationalPerson",
+            "user",
+            "computer"
+        ],
+        "objectSid": [
+            "S-1-5-21-2284526575-3220193634-2291435605-6120"
+        ],
+        "operatingSystem": [
+            "Windows 7 Ultimate"
+        ],
+        "operatingSystemServicePack": [
+            "Service Pack 1"
+        ],
+        "operatingSystemVersion": [
+            "6.1 (7601)"
+        ],
+        "sAMAccountName": [
+            "HW-KTME-HIEUNM$"
+        ],
+        "userAccountControl": [
+            4096
+        ],
+        "whenCreated": [
+            "2017-06-17 10:27:30+00:00"
+        ]
+    },
+    "dn": "CN=HW-KTME-HIEUNM,OU=Computers,OU=HWME,DC=hawee,DC=local"
+},{
+    "attributes": {
+        "cn": [
+            "HW-KTME-YEN"
+        ],
+        "dNSHostName": [
+            "HW-KTME-YEN.hawee.local"
+        ],
+        "description": [],
+        "lastLogon": [
+            "2019-03-14 00:50:47.333635+00:00"
+        ],
+        "objectClass": [
+            "top",
+            "person",
+            "organizationalPerson",
+            "user",
+            "computer"
+        ],
+        "objectSid": [
+            "S-1-5-21-2284526575-3220193634-2291435605-3568"
+        ],
+        "operatingSystem": [
+            "Windows 7 Ultimate"
+        ],
+        "operatingSystemServicePack": [
+            "Service Pack 1"
+        ],
+        "operatingSystemVersion": [
+            "6.1 (7601)"
+        ],
+        "sAMAccountName": [
+            "HW-KTME-YEN$"
+        ],
+        "userAccountControl": [
+            4096
+        ],
+        "whenCreated": [
+            "2017-06-17 10:16:15+00:00"
+        ]
+    },
+    "dn": "CN=HW-KTME-YEN,OU=Computers,OU=HWME,DC=hawee,DC=local"
+},{
+    "attributes": {
+        "cn": [
+            "HW-KTME-NHATHX"
+        ],
+        "dNSHostName": [
+            "HW-KTME-NHATHX.hawee.local"
+        ],
+        "description": [],
+        "lastLogon": [
+            "2018-07-03 03:24:40.345390+00:00"
+        ],
+        "objectClass": [
+            "top",
+            "person",
+            "organizationalPerson",
+            "user",
+            "computer"
+        ],
+        "objectSid": [
+            "S-1-5-21-2284526575-3220193634-2291435605-6119"
+        ],
+        "operatingSystem": [
+            "Windows 7 Ultimate"
+        ],
+        "operatingSystemServicePack": [
+            "Service Pack 1"
+        ],
+        "operatingSystemVersion": [
+            "6.1 (7601)"
+        ],
+        "sAMAccountName": [
+            "HW-KTME-NHATHX$"
+        ],
+        "userAccountControl": [
+            4096
+        ],
+        "whenCreated": [
+            "2017-06-17 10:15:23+00:00"
+        ]
+    },
+    "dn": "CN=HW-KTME-NHATHX,OU=Computers,OU=HWME,DC=hawee,DC=local"
+},{
+    "attributes": {
+        "cn": [
+            "HW-KTME-THAMDT"
+        ],
+        "dNSHostName": [
+            "HW-KTME-THAMDT.hawee.local"
+        ],
+        "description": [],
+        "lastLogon": [
+            "2019-03-14 00:55:40.266880+00:00"
+        ],
+        "objectClass": [
+            "top",
+            "person",
+            "organizationalPerson",
+            "user",
+            "computer"
+        ],
+        "objectSid": [
+            "S-1-5-21-2284526575-3220193634-2291435605-3567"
+        ],
+        "operatingSystem": [
+            "Windows 7 Ultimate"
+        ],
+        "operatingSystemServicePack": [
+            "Service Pack 1"
+        ],
+        "operatingSystemVersion": [
+            "6.1 (7601)"
+        ],
+        "sAMAccountName": [
+            "HW-KTME-THAMDT$"
+        ],
+        "userAccountControl": [
+            4096
+        ],
+        "whenCreated": [
+            "2017-06-17 10:02:59+00:00"
+        ]
+    },
+    "dn": "CN=HW-KTME-THAMDT,OU=Computers,OU=HWME,DC=hawee,DC=local"
+},{
+    "attributes": {
+        "cn": [
+            "HW-KTME-HAU"
+        ],
+        "dNSHostName": [
+            "HW-KTME-HAU.hawee.local"
+        ],
+        "description": [],
+        "lastLogon": [
+            "2019-03-11 05:42:57.033236+00:00"
+        ],
+        "objectClass": [
+            "top",
+            "person",
+            "organizationalPerson",
+            "user",
+            "computer"
+        ],
+        "objectSid": [
+            "S-1-5-21-2284526575-3220193634-2291435605-6117"
+        ],
+        "operatingSystem": [
+            "Windows 7 Ultimate"
+        ],
+        "operatingSystemServicePack": [
+            "Service Pack 1"
+        ],
+        "operatingSystemVersion": [
+            "6.1 (7601)"
+        ],
+        "sAMAccountName": [
+            "HW-KTME-HAU$"
+        ],
+        "userAccountControl": [
+            4096
+        ],
+        "whenCreated": [
+            "2017-06-17 10:01:54+00:00"
+        ]
+    },
+    "dn": "CN=HW-KTME-HAU,OU=Computers,OU=HWME,DC=hawee,DC=local"
+},{
+    "attributes": {
+        "cn": [
+            "HW-KTME-HAINT"
+        ],
+        "dNSHostName": [
+            "HW-KTME-HAINT.hawee.local"
+        ],
+        "description": [],
+        "lastLogon": [
+            "2019-03-14 00:46:08.452684+00:00"
+        ],
+        "objectClass": [
+            "top",
+            "person",
+            "organizationalPerson",
+            "user",
+            "computer"
+        ],
+        "objectSid": [
+            "S-1-5-21-2284526575-3220193634-2291435605-3566"
+        ],
+        "operatingSystem": [
+            "Windows 7 Ultimate"
+        ],
+        "operatingSystemServicePack": [
+            "Service Pack 1"
+        ],
+        "operatingSystemVersion": [
+            "6.1 (7601)"
+        ],
+        "sAMAccountName": [
+            "HW-KTME-HAINT$"
+        ],
+        "userAccountControl": [
+            4096
+        ],
+        "whenCreated": [
+            "2017-06-17 09:49:37+00:00"
+        ]
+    },
+    "dn": "CN=HW-KTME-HAINT,OU=Computers,OU=HWME,DC=hawee,DC=local"
+},{
+    "attributes": {
+        "cn": [
+            "HW-KTME-THE"
+        ],
+        "dNSHostName": [
+            "HW-KTME-The.hawee.local"
+        ],
+        "description": [],
+        "lastLogon": [
+            "2019-03-13 17:46:34.695606+00:00"
+        ],
+        "objectClass": [
+            "top",
+            "person",
+            "organizationalPerson",
+            "user",
+            "computer"
+        ],
+        "objectSid": [
+            "S-1-5-21-2284526575-3220193634-2291435605-6116"
+        ],
+        "operatingSystem": [
+            "Windows 10 Enterprise"
+        ],
+        "operatingSystemServicePack": [],
+        "operatingSystemVersion": [
+            "10.0 (17763)"
+        ],
+        "sAMAccountName": [
+            "HW-KTME-THE$"
+        ],
+        "userAccountControl": [
+            4096
+        ],
+        "whenCreated": [
+            "2017-06-17 09:46:20+00:00"
+        ]
+    },
+    "dn": "CN=HW-KTME-THE,OU=Computers,OU=HWME,DC=hawee,DC=local"
+},{
+    "attributes": {
+        "cn": [
+            "HWKT-DINH"
+        ],
+        "dNSHostName": [
+            "HWKT-DINH.hawee.local"
+        ],
+        "description": [],
+        "lastLogon": [
+            "2019-03-13 13:23:48.291172+00:00"
+        ],
+        "objectClass": [
+            "top",
+            "person",
+            "organizationalPerson",
+            "user",
+            "computer"
+        ],
+        "objectSid": [
+            "S-1-5-21-2284526575-3220193634-2291435605-3565"
+        ],
+        "operatingSystem": [
+            "Windows 7 Ultimate"
+        ],
+        "operatingSystemServicePack": [
+            "Service Pack 1"
+        ],
+        "operatingSystemVersion": [
+            "6.1 (7601)"
+        ],
+        "sAMAccountName": [
+            "HWKT-DINH$"
+        ],
+        "userAccountControl": [
+            4096
+        ],
+        "whenCreated": [
+            "2017-06-17 09:24:44+00:00"
+        ]
+    },
+    "dn": "CN=HWKT-DINH,OU=Computers,OU=HWME,DC=hawee,DC=local"
+},{
+    "attributes": {
+        "cn": [
+            "NGAKT"
+        ],
+        "dNSHostName": [
+            "NGAKT.hawee.local"
+        ],
+        "description": [],
+        "lastLogon": [
+            "2018-11-15 06:25:16.854753+00:00"
+        ],
+        "objectClass": [
+            "top",
+            "person",
+            "organizationalPerson",
+            "user",
+            "computer"
+        ],
+        "objectSid": [
+            "S-1-5-21-2284526575-3220193634-2291435605-6115"
+        ],
+        "operatingSystem": [
+            "Windows 7 Ultimate"
+        ],
+        "operatingSystemServicePack": [
+            "Service Pack 1"
+        ],
+        "operatingSystemVersion": [
+            "6.1 (7601)"
+        ],
+        "sAMAccountName": [
+            "NGAKT$"
+        ],
+        "userAccountControl": [
+            4096
+        ],
+        "whenCreated": [
+            "2017-06-17 09:05:34+00:00"
+        ]
+    },
+    "dn": "CN=NGAKT,OU=Computers,OU=HWME,DC=hawee,DC=local"
+},{
+    "attributes": {
+        "cn": [
+            "HO-DBFPT-SV"
+        ],
+        "dNSHostName": [
+            "HO-DBFPT-SV.hawee.local"
+        ],
+        "description": [],
+        "lastLogon": [
+            "2017-09-22 07:28:02.107649+00:00"
+        ],
+        "objectClass": [
+            "top",
+            "person",
+            "organizationalPerson",
+            "user",
+            "computer"
+        ],
+        "objectSid": [
+            "S-1-5-21-2284526575-3220193634-2291435605-5524"
+        ],
+        "operatingSystem": [
+            "Windows Server 2012 R2 Standard"
+        ],
+        "operatingSystemServicePack": [],
+        "operatingSystemVersion": [
+            "6.3 (9600)"
+        ],
+        "sAMAccountName": [
+            "HO-DBFPT-SV$"
+        ],
+        "userAccountControl": [
+            4096
+        ],
+        "whenCreated": [
+            "2017-05-25 01:52:14+00:00"
+        ]
+    },
+    "dn": "CN=HO-DBFPT-SV,OU=Computers,OU=HWHO,DC=hawee,DC=local"
+},{
+    "attributes": {
+        "cn": [
+            "HO-APPFPT-SV"
+        ],
+        "dNSHostName": [
+            "HO-APPFPT-SV.hawee.local"
+        ],
+        "description": [],
+        "lastLogon": [
+            "2017-10-25 02:33:32.255951+00:00"
+        ],
+        "objectClass": [
+            "top",
+            "person",
+            "organizationalPerson",
+            "user",
+            "computer"
+        ],
+        "objectSid": [
+            "S-1-5-21-2284526575-3220193634-2291435605-3538"
+        ],
+        "operatingSystem": [
+            "Windows Server 2012 R2 Standard"
+        ],
+        "operatingSystemServicePack": [],
+        "operatingSystemVersion": [
+            "6.3 (9600)"
+        ],
+        "sAMAccountName": [
+            "HO-APPFPT-SV$"
+        ],
+        "userAccountControl": [
+            4096
+        ],
+        "whenCreated": [
+            "2017-05-25 01:49:17+00:00"
+        ]
+    },
+    "dn": "CN=HO-APPFPT-SV,OU=Computers,OU=HWHO,DC=hawee,DC=local"
+},{
+    "attributes": {
+        "cn": [
+            "HO-CSDL-SV"
+        ],
+        "dNSHostName": [
+            "HO-CSDL-SV.hawee.local"
+        ],
+        "description": [],
+        "lastLogon": [
+            "2019-03-14 01:41:17.294558+00:00"
+        ],
+        "objectClass": [
+            "top",
+            "person",
+            "organizationalPerson",
+            "user",
+            "computer"
+        ],
+        "objectSid": [
+            "S-1-5-21-2284526575-3220193634-2291435605-3537"
+        ],
+        "operatingSystem": [
+            "Windows Server 2012 R2 Standard"
+        ],
+        "operatingSystemServicePack": [],
+        "operatingSystemVersion": [
+            "6.3 (9600)"
+        ],
+        "sAMAccountName": [
+            "HO-CSDL-SV$"
+        ],
+        "userAccountControl": [
+            4096
+        ],
+        "whenCreated": [
+            "2017-05-23 04:58:46+00:00"
+        ]
+    },
+    "dn": "CN=HO-CSDL-SV,OU=Computers,OU=HWHO,DC=hawee,DC=local"
+},{
+    "attributes": {
+        "cn": [
+            "HO-MON01-SV"
+        ],
+        "dNSHostName": [
+            "HO-MON01-SV.hawee.local"
+        ],
+        "description": [],
+        "lastLogon": [
+            "2019-01-09 07:05:33.543554+00:00"
+        ],
+        "objectClass": [
+            "top",
+            "person",
+            "organizationalPerson",
+            "user",
+            "computer"
+        ],
+        "objectSid": [
+            "S-1-5-21-2284526575-3220193634-2291435605-3424"
+        ],
+        "operatingSystem": [
+            "Windows Server 2012 R2 Standard"
+        ],
+        "operatingSystemServicePack": [],
+        "operatingSystemVersion": [
+            "6.3 (9600)"
+        ],
+        "sAMAccountName": [
+            "HO-MON01-SV$"
+        ],
+        "userAccountControl": [
+            4096
+        ],
+        "whenCreated": [
+            "2017-04-13 06:38:50+00:00"
+        ]
+    },
+    "dn": "CN=HO-MON01-SV,OU=Computers,OU=HWHO,DC=hawee,DC=local"
+},{
+    "attributes": {
+        "cn": [
+            "BACKUP-TEST"
+        ],
+        "dNSHostName": [
+            "Backup-Test.hawee.local"
+        ],
+        "description": [],
+        "lastLogon": [
+            "2017-04-11 08:47:21.713066+00:00"
+        ],
+        "objectClass": [
+            "top",
+            "person",
+            "organizationalPerson",
+            "user",
+            "computer"
+        ],
+        "objectSid": [
+            "S-1-5-21-2284526575-3220193634-2291435605-3423"
+        ],
+        "operatingSystem": [
+            "Windows Server 2012 R2 Datacenter"
+        ],
+        "operatingSystemServicePack": [],
+        "operatingSystemVersion": [
+            "6.3 (9600)"
+        ],
+        "sAMAccountName": [
+            "BACKUP-TEST$"
+        ],
+        "userAccountControl": [
+            4096
+        ],
+        "whenCreated": [
+            "2017-04-11 08:25:57+00:00"
+        ]
+    },
+    "dn": "CN=BACKUP-TEST,CN=Computers,DC=hawee,DC=local"
+},{
+    "attributes": {
+        "cn": [
+            "HO-OWA01-SV"
+        ],
+        "dNSHostName": [
+            "HO-OWA01-SV.hawee.local"
+        ],
+        "description": [],
+        "lastLogon": [
+            "2017-05-07 14:33:50.003571+00:00"
+        ],
+        "objectClass": [
+            "top",
+            "person",
+            "organizationalPerson",
+            "user",
+            "computer"
+        ],
+        "objectSid": [
+            "S-1-5-21-2284526575-3220193634-2291435605-5182"
+        ],
+        "operatingSystem": [
+            "Windows Server 2012 R2 Standard"
+        ],
+        "operatingSystemServicePack": [],
+        "operatingSystemVersion": [
+            "6.3 (9600)"
+        ],
+        "sAMAccountName": [
+            "HO-OWA01-SV$"
+        ],
+        "userAccountControl": [
+            4096
+        ],
+        "whenCreated": [
+            "2017-03-14 02:01:41+00:00"
+        ]
+    },
+    "dn": "CN=HO-OWA01-SV,OU=Computers,OU=HWHO,DC=hawee,DC=local"
+},{
+    "attributes": {
+        "cn": [
+            "HWIT-0900"
+        ],
+        "dNSHostName": [
+            "HWIT-0900.hawee.local"
+        ],
+        "description": [],
+        "lastLogon": [
+            "2017-12-22 03:41:04.415394+00:00"
+        ],
+        "objectClass": [
+            "top",
+            "person",
+            "organizationalPerson",
+            "user",
+            "computer"
+        ],
+        "objectSid": [
+            "S-1-5-21-2284526575-3220193634-2291435605-5160"
+        ],
+        "operatingSystem": [
+            "Windows 10 Education"
+        ],
+        "operatingSystemServicePack": [],
+        "operatingSystemVersion": [
+            "10.0 (14393)"
+        ],
+        "sAMAccountName": [
+            "HWIT-0900$"
+        ],
+        "userAccountControl": [
+            4096
+        ],
+        "whenCreated": [
+            "2017-03-01 15:22:17+00:00"
+        ]
+    },
+    "dn": "CN=HWIT-0900,OU=Computers,OU=HWME,DC=hawee,DC=local"
+},{
+    "attributes": {
+        "cn": [
+            "HO-TERM02-SV"
+        ],
+        "dNSHostName": [
+            "HO-Term02-SV.hawee.local"
+        ],
+        "description": [],
+        "lastLogon": [
+            "2019-03-13 18:21:45.996778+00:00"
+        ],
+        "objectClass": [
+            "top",
+            "person",
+            "organizationalPerson",
+            "user",
+            "computer"
+        ],
+        "objectSid": [
+            "S-1-5-21-2284526575-3220193634-2291435605-5112"
+        ],
+        "operatingSystem": [
+            "Windows Server 2012 R2 Standard"
+        ],
+        "operatingSystemServicePack": [],
+        "operatingSystemVersion": [
+            "6.3 (9600)"
+        ],
+        "sAMAccountName": [
+            "HO-TERM02-SV$"
+        ],
+        "userAccountControl": [
+            4096
+        ],
+        "whenCreated": [
+            "2017-02-18 08:03:07+00:00"
+        ]
+    },
+    "dn": "CN=HO-TERM02-SV,OU=Computers,OU=HWHO,DC=hawee,DC=local"
+},{
+    "attributes": {
+        "cn": [
+            "HO-BACKUP02-SV"
+        ],
+        "dNSHostName": [
+            "HO-Backup02-SV.hawee.local"
+        ],
+        "description": [],
+        "lastLogon": [
+            "2019-03-13 18:33:37.788858+00:00"
+        ],
+        "objectClass": [
+            "top",
+            "person",
+            "organizationalPerson",
+            "user",
+            "computer"
+        ],
+        "objectSid": [
+            "S-1-5-21-2284526575-3220193634-2291435605-5039"
+        ],
+        "operatingSystem": [
+            "Windows Server 2012 R2 Standard"
+        ],
+        "operatingSystemServicePack": [],
+        "operatingSystemVersion": [
+            "6.3 (9600)"
+        ],
+        "sAMAccountName": [
+            "HO-BACKUP02-SV$"
+        ],
+        "userAccountControl": [
+            4096
+        ],
+        "whenCreated": [
+            "2017-02-09 08:08:16+00:00"
+        ]
+    },
+    "dn": "CN=HO-BACKUP02-SV,OU=Computers,OU=HWHO,DC=hawee,DC=local"
+},{
+    "attributes": {
+        "cn": [
+            "HRM_AAG"
+        ],
+        "dNSHostName": [
+            "HRM_AAG.hawee.local"
+        ],
+        "description": [
+            "Failover cluster virtual network name account"
+        ],
+        "lastLogon": [
+            "2017-05-04 04:44:39.914225+00:00"
+        ],
+        "objectClass": [
+            "top",
+            "person",
+            "organizationalPerson",
+            "user",
+            "computer"
+        ],
+        "objectSid": [
+            "S-1-5-21-2284526575-3220193634-2291435605-2609"
+        ],
+        "operatingSystem": [],
+        "operatingSystemServicePack": [],
+        "operatingSystemVersion": [],
+        "sAMAccountName": [
+            "HRM_AAG$"
+        ],
+        "userAccountControl": [
+            4096
+        ],
+        "whenCreated": [
+            "2016-12-23 03:19:11+00:00"
+        ]
+    },
+    "dn": "CN=HRM_AAG,CN=Computers,DC=hawee,DC=local"
+},{
+    "attributes": {
+        "cn": [
+            "HRMPro_AAG"
+        ],
+        "dNSHostName": [
+            "HRMPro_AAG.hawee.local"
+        ],
+        "description": [
+            "Failover cluster virtual network name account"
+        ],
+        "lastLogon": [],
+        "objectClass": [
+            "top",
+            "person",
+            "organizationalPerson",
+            "user",
+            "computer"
+        ],
+        "objectSid": [
+            "S-1-5-21-2284526575-3220193634-2291435605-3105"
+        ],
+        "operatingSystem": [],
+        "operatingSystemServicePack": [],
+        "operatingSystemVersion": [],
+        "sAMAccountName": [
+            "HRMPro_AAG$"
+        ],
+        "userAccountControl": [
+            4098
+        ],
+        "whenCreated": [
+            "2016-12-22 08:46:22+00:00"
+        ]
+    },
+    "dn": "CN=HRMPro_AAG,CN=Computers,DC=hawee,DC=local"
+},{
+    "attributes": {
+        "cn": [
+            "HO-HRDB"
+        ],
+        "dNSHostName": [
+            "HO-HRDB.hawee.local"
+        ],
+        "description": [
+            "Failover cluster virtual network name account"
+        ],
+        "lastLogon": [
+            "2017-05-17 10:52:40.400461+00:00"
+        ],
+        "objectClass": [
+            "top",
+            "person",
+            "organizationalPerson",
+            "user",
+            "computer"
+        ],
+        "objectSid": [
+            "S-1-5-21-2284526575-3220193634-2291435605-2608"
+        ],
+        "operatingSystem": [
+            "Windows Server 2012 R2 Standard"
+        ],
+        "operatingSystemServicePack": [],
+        "operatingSystemVersion": [
+            "6.3 (9600)"
+        ],
+        "sAMAccountName": [
+            "HO-HRDB$"
+        ],
+        "userAccountControl": [
+            4096
+        ],
+        "whenCreated": [
+            "2016-12-22 04:48:03+00:00"
+        ]
+    },
+    "dn": "CN=HO-HRDB,CN=Computers,DC=hawee,DC=local"
+},{
+    "attributes": {
+        "cn": [
+            "AAG02"
+        ],
+        "dNSHostName": [],
+        "description": [
+            "HRM Pro"
+        ],
+        "lastLogon": [
+            "1601-01-01 00:00:00+00:00"
+        ],
+        "objectClass": [
+            "top",
+            "person",
+            "organizationalPerson",
+            "user",
+            "computer"
+        ],
+        "objectSid": [
+            "S-1-5-21-2284526575-3220193634-2291435605-2607"
+        ],
+        "operatingSystem": [],
+        "operatingSystemServicePack": [],
+        "operatingSystemVersion": [],
+        "sAMAccountName": [
+            "AAG02$"
+        ],
+        "userAccountControl": [
+            4128
+        ],
+        "whenCreated": [
+            "2016-12-22 04:34:42+00:00"
+        ]
+    },
+    "dn": "CN=AAG02,CN=Computers,DC=hawee,DC=local"
+},{
+    "attributes": {
+        "cn": [
+            "HO-SERVICES-SV"
+        ],
+        "dNSHostName": [
+            "HO-Services-SV.hawee.local"
+        ],
+        "description": [],
+        "lastLogon": [
+            "2019-03-12 06:45:31.787548+00:00"
+        ],
+        "objectClass": [
+            "top",
+            "person",
+            "organizationalPerson",
+            "user",
+            "computer"
+        ],
+        "objectSid": [
+            "S-1-5-21-2284526575-3220193634-2291435605-3104"
+        ],
+        "operatingSystem": [
+            "Windows Server 2012 R2 Standard"
+        ],
+        "operatingSystemServicePack": [],
+        "operatingSystemVersion": [
+            "6.3 (9600)"
+        ],
+        "sAMAccountName": [
+            "HO-SERVICES-SV$"
+        ],
+        "userAccountControl": [
+            4096
+        ],
+        "whenCreated": [
+            "2016-12-22 03:08:13+00:00"
+        ]
+    },
+    "dn": "CN=HO-SERVICES-SV,OU=Computers,OU=HWHO,DC=hawee,DC=local"
+},{
+    "attributes": {
+        "cn": [
+            "HO-HRDB02-SV"
+        ],
+        "dNSHostName": [
+            "HO-HRDB02-SV.hawee.local"
+        ],
+        "description": [],
+        "lastLogon": [
+            "2019-03-14 02:26:38.417200+00:00"
+        ],
+        "objectClass": [
+            "top",
+            "person",
+            "organizationalPerson",
+            "user",
+            "computer"
+        ],
+        "objectSid": [
+            "S-1-5-21-2284526575-3220193634-2291435605-1653"
+        ],
+        "operatingSystem": [
+            "Windows Server 2012 R2 Standard"
+        ],
+        "operatingSystemServicePack": [],
+        "operatingSystemVersion": [
+            "6.3 (9600)"
+        ],
+        "sAMAccountName": [
+            "HO-HRDB02-SV$"
+        ],
+        "userAccountControl": [
+            4096
+        ],
+        "whenCreated": [
+            "2016-12-15 09:49:14+00:00"
+        ]
+    },
+    "dn": "CN=HO-HRDB02-SV,OU=Computers,OU=HWHO,DC=hawee,DC=local"
+},{
+    "attributes": {
+        "cn": [
+            "HO-HRDB01-SV"
+        ],
+        "dNSHostName": [
+            "HO-HRDB01-SV.hawee.local"
+        ],
+        "description": [],
+        "lastLogon": [
+            "2018-07-18 10:39:31.155519+00:00"
+        ],
+        "objectClass": [
+            "top",
+            "person",
+            "organizationalPerson",
+            "user",
+            "computer"
+        ],
+        "objectSid": [
+            "S-1-5-21-2284526575-3220193634-2291435605-1419"
+        ],
+        "operatingSystem": [
+            "Windows Server 2012 R2 Standard"
+        ],
+        "operatingSystemServicePack": [],
+        "operatingSystemVersion": [
+            "6.3 (9600)"
+        ],
+        "sAMAccountName": [
+            "HO-HRDB01-SV$"
+        ],
+        "userAccountControl": [
+            4096
+        ],
+        "whenCreated": [
+            "2016-12-15 09:45:24+00:00"
+        ]
+    },
+    "dn": "CN=HO-HRDB01-SV,OU=Computers,OU=HWHO,DC=hawee,DC=local"
+},{
+    "attributes": {
+        "cn": [
+            "HO-HRAPP02-SV"
+        ],
+        "dNSHostName": [
+            "HO-HRApp02-SV.hawee.local"
+        ],
+        "description": [],
+        "lastLogon": [
+            "2019-03-13 19:58:19.996212+00:00"
+        ],
+        "objectClass": [
+            "top",
+            "person",
+            "organizationalPerson",
+            "user",
+            "computer"
+        ],
+        "objectSid": [
+            "S-1-5-21-2284526575-3220193634-2291435605-1418"
+        ],
+        "operatingSystem": [
+            "Windows Server 2012 R2 Standard"
+        ],
+        "operatingSystemServicePack": [],
+        "operatingSystemVersion": [
+            "6.3 (9600)"
+        ],
+        "sAMAccountName": [
+            "HO-HRAPP02-SV$"
+        ],
+        "userAccountControl": [
+            4096
+        ],
+        "whenCreated": [
+            "2016-12-15 09:44:18+00:00"
+        ]
+    },
+    "dn": "CN=HO-HRAPP02-SV,OU=Computers,OU=HWHO,DC=hawee,DC=local"
+},{
+    "attributes": {
+        "cn": [
+            "HO-CAS01-SV"
+        ],
+        "dNSHostName": [
+            "HO-CAS01-SV.hawee.local"
+        ],
+        "description": [],
+        "lastLogon": [
+            "2019-03-13 21:47:13.360937+00:00"
+        ],
+        "objectClass": [
+            "top",
+            "person",
+            "organizationalPerson",
+            "user",
+            "computer"
+        ],
+        "objectSid": [
+            "S-1-5-21-2284526575-3220193634-2291435605-1632"
+        ],
+        "operatingSystem": [
+            "Windows Server 2012 R2 Standard"
+        ],
+        "operatingSystemServicePack": [],
+        "operatingSystemVersion": [
+            "6.3 (9600)"
+        ],
+        "sAMAccountName": [
+            "HO-CAS01-SV$"
+        ],
+        "userAccountControl": [
+            4096
+        ],
+        "whenCreated": [
+            "2016-12-10 06:03:59+00:00"
+        ]
+    },
+    "dn": "CN=HO-CAS01-SV,OU=Computers,OU=HWHO,DC=hawee,DC=local"
+},{
+    "attributes": {
+        "cn": [
+            "HO-MB02-SV"
+        ],
+        "dNSHostName": [
+            "HO-MB02-SV.hawee.local"
+        ],
+        "description": [],
+        "lastLogon": [
+            "2019-03-14 03:13:27.207113+00:00"
+        ],
+        "objectClass": [
+            "top",
+            "person",
+            "organizationalPerson",
+            "user",
+            "computer"
+        ],
+        "objectSid": [
+            "S-1-5-21-2284526575-3220193634-2291435605-1631"
+        ],
+        "operatingSystem": [
+            "Windows Server 2012 R2 Standard"
+        ],
+        "operatingSystemServicePack": [],
+        "operatingSystemVersion": [
+            "6.3 (9600)"
+        ],
+        "sAMAccountName": [
+            "HO-MB02-SV$"
+        ],
+        "userAccountControl": [
+            4096
+        ],
+        "whenCreated": [
+            "2016-12-09 04:19:45+00:00"
+        ]
+    },
+    "dn": "CN=HO-MB02-SV,OU=Computers,OU=HWHO,DC=hawee,DC=local"
+},{
+    "attributes": {
+        "cn": [
+            "HO-MB01-SV"
+        ],
+        "dNSHostName": [
+            "HO-MB01-SV.hawee.local"
+        ],
+        "description": [],
+        "lastLogon": [
+            "2019-03-12 03:21:14.698072+00:00"
+        ],
+        "objectClass": [
+            "top",
+            "person",
+            "organizationalPerson",
+            "user",
+            "computer"
+        ],
+        "objectSid": [
+            "S-1-5-21-2284526575-3220193634-2291435605-1370"
+        ],
+        "operatingSystem": [
+            "Windows Server 2012 R2 Standard"
+        ],
+        "operatingSystemServicePack": [],
+        "operatingSystemVersion": [
+            "6.3 (9600)"
+        ],
+        "sAMAccountName": [
+            "HO-MB01-SV$"
+        ],
+        "userAccountControl": [
+            4096
+        ],
+        "whenCreated": [
+            "2016-12-09 04:19:50+00:00"
+        ]
+    },
+    "dn": "CN=HO-MB01-SV,OU=Computers,OU=HWHO,DC=hawee,DC=local"
+},{
+    "attributes": {
+        "cn": [
+            "HO-CAS02-SV"
+        ],
+        "dNSHostName": [
+            "HO-CAS02-SV.hawee.local"
+        ],
+        "description": [],
+        "lastLogon": [
+            "2019-03-14 03:15:55.272106+00:00"
+        ],
+        "objectClass": [
+            "top",
+            "person",
+            "organizationalPerson",
+            "user",
+            "computer"
+        ],
+        "objectSid": [
+            "S-1-5-21-2284526575-3220193634-2291435605-1630"
+        ],
+        "operatingSystem": [
+            "Windows Server 2012 R2 Standard"
+        ],
+        "operatingSystemServicePack": [],
+        "operatingSystemVersion": [
+            "6.3 (9600)"
+        ],
+        "sAMAccountName": [
+            "HO-CAS02-SV$"
+        ],
+        "userAccountControl": [
+            4096
+        ],
+        "whenCreated": [
+            "2016-12-09 04:15:17+00:00"
+        ]
+    },
+    "dn": "CN=HO-CAS02-SV,OU=Computers,OU=HWHO,DC=hawee,DC=local"
+},{
+    "attributes": {
+        "cn": [
+            "HO-FAX-SP"
+        ],
+        "dNSHostName": [
+            "HO-FAX-SP.hawee.local"
+        ],
+        "description": [],
+        "lastLogon": [
+            "2017-03-02 11:36:43.219269+00:00"
+        ],
+        "objectClass": [
+            "top",
+            "person",
+            "organizationalPerson",
+            "user",
+            "computer"
+        ],
+        "objectSid": [
+            "S-1-5-21-2284526575-3220193634-2291435605-1367"
+        ],
+        "operatingSystem": [
+            "Windows 7 Ultimate"
+        ],
+        "operatingSystemServicePack": [
+            "Service Pack 1"
+        ],
+        "operatingSystemVersion": [
+            "6.1 (7601)"
+        ],
+        "sAMAccountName": [
+            "HO-FAX-SP$"
+        ],
+        "userAccountControl": [
+            4096
+        ],
+        "whenCreated": [
+            "2016-12-03 06:07:33+00:00"
+        ]
+    },
+    "dn": "CN=HO-FAX-SP,OU=Computers,OU=HWHO,DC=hawee,DC=local"
+},{
+    "attributes": {
+        "cn": [
+            "iBom_AAG"
+        ],
+        "dNSHostName": [
+            "iBom_AAG.hawee.local"
+        ],
+        "description": [
+            "Failover cluster virtual network name account"
+        ],
+        "lastLogon": [
+            "2016-12-20 03:04:23.073538+00:00"
+        ],
+        "objectClass": [
+            "top",
+            "person",
+            "organizationalPerson",
+            "user",
+            "computer"
+        ],
+        "objectSid": [
+            "S-1-5-21-2284526575-3220193634-2291435605-1621"
+        ],
+        "operatingSystem": [],
+        "operatingSystemServicePack": [],
+        "operatingSystemVersion": [],
+        "sAMAccountName": [
+            "iBom_AAG$"
+        ],
+        "userAccountControl": [
+            4096
+        ],
+        "whenCreated": [
+            "2016-11-10 04:47:21+00:00"
+        ]
+    },
+    "dn": "CN=iBom_AAG,CN=Computers,DC=hawee,DC=local"
+},{
+    "attributes": {
+        "cn": [
+            "SERVER-KTCD"
+        ],
+        "dNSHostName": [
+            "server-ktcd.hawee.local"
+        ],
+        "description": [],
+        "lastLogon": [
+            "2017-05-03 20:06:08.828590+00:00"
+        ],
+        "objectClass": [
+            "top",
+            "person",
+            "organizationalPerson",
+            "user",
+            "computer"
+        ],
+        "objectSid": [
+            "S-1-5-21-2284526575-3220193634-2291435605-1352"
+        ],
+        "operatingSystem": [
+            "Windows Server\u00ae 2008 Standard"
+        ],
+        "operatingSystemServicePack": [
+            "Service Pack 2"
+        ],
+        "operatingSystemVersion": [
+            "6.0 (6002)"
+        ],
+        "sAMAccountName": [
+            "SERVER-KTCD$"
+        ],
+        "userAccountControl": [
+            4096
+        ],
+        "whenCreated": [
+            "2016-11-09 01:18:44+00:00"
+        ]
+    },
+    "dn": "CN=SERVER-KTCD,OU=Computers,OU=HWHO,DC=hawee,DC=local"
+},{
+    "attributes": {
+        "cn": [
+            "HO-MIDLEDB-SV"
+        ],
+        "dNSHostName": [
+            "HO-MidleDB-SV.hawee.local"
+        ],
+        "description": [],
+        "lastLogon": [
+            "2017-03-03 09:46:20.153275+00:00"
+        ],
+        "objectClass": [
+            "top",
+            "person",
+            "organizationalPerson",
+            "user",
+            "computer"
+        ],
+        "objectSid": [
+            "S-1-5-21-2284526575-3220193634-2291435605-1618"
+        ],
+        "operatingSystem": [
+            "Windows Server 2012 R2 Standard"
+        ],
+        "operatingSystemServicePack": [],
+        "operatingSystemVersion": [
+            "6.3 (9600)"
+        ],
+        "sAMAccountName": [
+            "HO-MIDLEDB-SV$"
+        ],
+        "userAccountControl": [
+            4098
+        ],
+        "whenCreated": [
+            "2016-10-25 01:55:44+00:00"
+        ]
+    },
+    "dn": "CN=HO-MIDLEDB-SV,OU=Computers,OU=HWHO,DC=hawee,DC=local"
+},{
+    "attributes": {
+        "cn": [
+            "HR-QUYNHDH-ME"
+        ],
+        "dNSHostName": [
+            "HR-QuynhDH-ME.hawee.local"
+        ],
+        "description": [],
+        "lastLogon": [
+            "2019-03-14 01:05:11.964876+00:00"
+        ],
+        "objectClass": [
+            "top",
+            "person",
+            "organizationalPerson",
+            "user",
+            "computer"
+        ],
+        "objectSid": [
+            "S-1-5-21-2284526575-3220193634-2291435605-1331"
+        ],
+        "operatingSystem": [
+            "Windows 7 Ultimate"
+        ],
+        "operatingSystemServicePack": [],
+        "operatingSystemVersion": [
+            "6.1 (7600)"
+        ],
+        "sAMAccountName": [
+            "HR-QUYNHDH-ME$"
+        ],
+        "userAccountControl": [
+            4096
+        ],
+        "whenCreated": [
+            "2016-10-05 07:23:13+00:00"
+        ]
+    },
+    "dn": "CN=HR-QUYNHDH-ME,OU=Computers,OU=HWME,DC=hawee,DC=local"
+},{
+    "attributes": {
+        "cn": [
+            "HO-WDS01-SV"
+        ],
+        "dNSHostName": [
+            "HO-WDS01-SV.hawee.local"
+        ],
+        "description": [],
+        "lastLogon": [
+            "2017-01-22 19:57:56.788223+00:00"
+        ],
+        "objectClass": [
+            "top",
+            "person",
+            "organizationalPerson",
+            "user",
+            "computer"
+        ],
+        "objectSid": [
+            "S-1-5-21-2284526575-3220193634-2291435605-1326"
+        ],
+        "operatingSystem": [
+            "Windows Server 2012 R2 Standard"
+        ],
+        "operatingSystemServicePack": [],
+        "operatingSystemVersion": [
+            "6.3 (9600)"
+        ],
+        "sAMAccountName": [
+            "HO-WDS01-SV$"
+        ],
+        "userAccountControl": [
+            4096
+        ],
+        "whenCreated": [
+            "2016-09-29 10:24:45+00:00"
+        ]
+    },
+    "dn": "CN=HO-WDS01-SV,OU=Computers,OU=HWHO,DC=hawee,DC=local"
+},{
+    "attributes": {
+        "cn": [
+            "HO-ATVIRUS01-SV"
+        ],
+        "dNSHostName": [
+            "HO-ATVirus01-SV.hawee.local"
+        ],
+        "description": [],
+        "lastLogon": [
+            "2019-03-13 14:46:28.980200+00:00"
+        ],
+        "objectClass": [
+            "top",
+            "person",
+            "organizationalPerson",
+            "user",
+            "computer"
+        ],
+        "objectSid": [
+            "S-1-5-21-2284526575-3220193634-2291435605-1604"
+        ],
+        "operatingSystem": [
+            "Windows Server 2012 R2 Standard"
+        ],
+        "operatingSystemServicePack": [],
+        "operatingSystemVersion": [
+            "6.3 (9600)"
+        ],
+        "sAMAccountName": [
+            "HO-ATVIRUS01-SV$"
+        ],
+        "userAccountControl": [
+            4096
+        ],
+        "whenCreated": [
+            "2016-09-26 02:23:02+00:00"
+        ]
+    },
+    "dn": "CN=HO-ATVIRUS01-SV,OU=Computers,OU=HWHO,DC=hawee,DC=local"
+},{
+    "attributes": {
+        "cn": [
+            "AAG_iBOM"
+        ],
+        "dNSHostName": [
+            "AAG_iBOM.hawee.local"
+        ],
+        "description": [
+            "Failover cluster virtual network name account"
+        ],
+        "lastLogon": [
+            "2016-11-09 19:48:22.478933+00:00"
+        ],
+        "objectClass": [
+            "top",
+            "person",
+            "organizationalPerson",
+            "user",
+            "computer"
+        ],
+        "objectSid": [
+            "S-1-5-21-2284526575-3220193634-2291435605-1270"
+        ],
+        "operatingSystem": [],
+        "operatingSystemServicePack": [],
+        "operatingSystemVersion": [],
+        "sAMAccountName": [
+            "AAG_iBOM$"
+        ],
+        "userAccountControl": [
+            4098
+        ],
+        "whenCreated": [
+            "2016-09-16 07:33:42+00:00"
+        ]
+    },
+    "dn": "CN=AAG_iBOM,CN=Computers,DC=hawee,DC=local"
+},{
+    "attributes": {
+        "cn": [
+            "AAG01"
+        ],
+        "dNSHostName": [
+            "AAG01.hawee.local"
+        ],
+        "description": [
+            "Failover cluster virtual network name account"
+        ],
+        "lastLogon": [
+            "2018-04-25 05:09:46.687389+00:00"
+        ],
+        "objectClass": [
+            "top",
+            "person",
+            "organizationalPerson",
+            "user",
+            "computer"
+        ],
+        "objectSid": [
+            "S-1-5-21-2284526575-3220193634-2291435605-1269"
+        ],
+        "operatingSystem": [
+            "Windows Server 2012 R2 Standard"
+        ],
+        "operatingSystemServicePack": [],
+        "operatingSystemVersion": [
+            "6.3 (9600)"
+        ],
+        "sAMAccountName": [
+            "AAG01$"
+        ],
+        "userAccountControl": [
+            4096
+        ],
+        "whenCreated": [
+            "2016-09-16 06:13:06+00:00"
+        ]
+    },
+    "dn": "CN=AAG01,CN=Computers,DC=hawee,DC=local"
+},{
+    "attributes": {
+        "cn": [
+            "STG-HRM-SV"
+        ],
+        "dNSHostName": [
+            "Stg-HRM-SV.hawee.local"
+        ],
+        "description": [],
+        "lastLogon": [
+            "2019-03-13 22:53:35.994799+00:00"
+        ],
+        "objectClass": [
+            "top",
+            "person",
+            "organizationalPerson",
+            "user",
+            "computer"
+        ],
+        "objectSid": [
+            "S-1-5-21-2284526575-3220193634-2291435605-1603"
+        ],
+        "operatingSystem": [
+            "Windows Server 2012 R2 Standard"
+        ],
+        "operatingSystemServicePack": [],
+        "operatingSystemVersion": [
+            "6.3 (9600)"
+        ],
+        "sAMAccountName": [
+            "STG-HRM-SV$"
+        ],
+        "userAccountControl": [
+            4096
+        ],
+        "whenCreated": [
+            "2016-09-16 02:15:07+00:00"
+        ]
+    },
+    "dn": "CN=STG-HRM-SV,OU=Computers,OU=HWHO,DC=hawee,DC=local"
+},{
+    "attributes": {
+        "cn": [
+            "HO-TERM01-SV"
+        ],
+        "dNSHostName": [
+            "HO-Term01-SV.hawee.local"
+        ],
+        "description": [],
+        "lastLogon": [
+            "2019-03-13 01:10:13.237946+00:00"
+        ],
+        "objectClass": [
+            "top",
+            "person",
+            "organizationalPerson",
+            "user",
+            "computer"
+        ],
+        "objectSid": [
+            "S-1-5-21-2284526575-3220193634-2291435605-1602"
+        ],
+        "operatingSystem": [
+            "Windows Server 2012 R2 Standard"
+        ],
+        "operatingSystemServicePack": [],
+        "operatingSystemVersion": [
+            "6.3 (9600)"
+        ],
+        "sAMAccountName": [
+            "HO-TERM01-SV$"
+        ],
+        "userAccountControl": [
+            4096
+        ],
+        "whenCreated": [
+            "2016-09-15 09:36:04+00:00"
+        ]
+    },
+    "dn": "CN=HO-TERM01-SV,OU=Computers,OU=HWHO,DC=hawee,DC=local"
+},{
+    "attributes": {
+        "cn": [
+            "HO-FILES02-SV"
+        ],
+        "dNSHostName": [
+            "HO-Files02-SV.hawee.local"
+        ],
+        "description": [],
+        "lastLogon": [
+            "2018-12-13 21:01:39.222763+00:00"
+        ],
+        "objectClass": [
+            "top",
+            "person",
+            "organizationalPerson",
+            "user",
+            "computer"
+        ],
+        "objectSid": [
+            "S-1-5-21-2284526575-3220193634-2291435605-1246"
+        ],
+        "operatingSystem": [
+            "Windows Server 2012 R2 Standard"
+        ],
+        "operatingSystemServicePack": [],
+        "operatingSystemVersion": [
+            "6.3 (9600)"
+        ],
+        "sAMAccountName": [
+            "HO-FILES02-SV$"
+        ],
+        "userAccountControl": [
+            4096
+        ],
+        "whenCreated": [
+            "2016-09-15 09:00:46+00:00"
+        ]
+    },
+    "dn": "CN=HO-FILES02-SV,OU=Computers,OU=HWHO,DC=hawee,DC=local"
+},{
+    "attributes": {
+        "cn": [
+            "HO-FILES01-SV"
+        ],
+        "dNSHostName": [
+            "HO-Files01-SV.hawee.local"
+        ],
+        "description": [],
+        "lastLogon": [
+            "2019-03-12 11:13:23.017750+00:00"
+        ],
+        "objectClass": [
+            "top",
+            "person",
+            "organizationalPerson",
+            "user",
+            "computer"
+        ],
+        "objectSid": [
+            "S-1-5-21-2284526575-3220193634-2291435605-1601"
+        ],
+        "operatingSystem": [
+            "Windows Server 2012 R2 Standard"
+        ],
+        "operatingSystemServicePack": [],
+        "operatingSystemVersion": [
+            "6.3 (9600)"
+        ],
+        "sAMAccountName": [
+            "HO-FILES01-SV$"
+        ],
+        "userAccountControl": [
+            4096
+        ],
+        "whenCreated": [
+            "2016-09-14 03:14:05+00:00"
+        ]
+    },
+    "dn": "CN=HO-FILES01-SV,OU=Computers,OU=HWHO,DC=hawee,DC=local"
+},{
+    "attributes": {
+        "cn": [
+            "HO-BACKUP01-SV"
+        ],
+        "dNSHostName": [
+            "HO-Backup01-SV.hawee.local"
+        ],
+        "description": [],
+        "lastLogon": [
+            "2019-03-13 22:40:55.651974+00:00"
+        ],
+        "objectClass": [
+            "top",
+            "person",
+            "organizationalPerson",
+            "user",
+            "computer"
+        ],
+        "objectSid": [
+            "S-1-5-21-2284526575-3220193634-2291435605-1112"
+        ],
+        "operatingSystem": [
+            "Windows Server 2012 R2 Standard"
+        ],
+        "operatingSystemServicePack": [],
+        "operatingSystemVersion": [
+            "6.3 (9600)"
+        ],
+        "sAMAccountName": [
+            "HO-BACKUP01-SV$"
+        ],
+        "userAccountControl": [
+            4096
+        ],
+        "whenCreated": [
+            "2016-09-10 09:20:58+00:00"
+        ]
+    },
+    "dn": "CN=HO-BACKUP01-SV,OU=Computers,OU=HWHO,DC=hawee,DC=local"
+},{
+    "attributes": {
+        "cn": [
+            "HO-DC02-SV"
+        ],
+        "dNSHostName": [
+            "HO-DC02-SV.hawee.local"
+        ],
+        "description": [],
+        "lastLogon": [
+            "2019-03-12 03:47:57.343798+00:00"
+        ],
+        "objectClass": [
+            "top",
+            "person",
+            "organizationalPerson",
+            "user",
+            "computer"
+        ],
+        "objectSid": [
+            "S-1-5-21-2284526575-3220193634-2291435605-1111"
+        ],
+        "operatingSystem": [
+            "Windows Server 2012 R2 Standard"
+        ],
+        "operatingSystemServicePack": [],
+        "operatingSystemVersion": [
+            "6.3 (9600)"
+        ],
+        "sAMAccountName": [
+            "HO-DC02-SV$"
+        ],
+        "userAccountControl": [
+            532480
+        ],
+        "whenCreated": [
+            "2016-09-10 07:55:39+00:00"
+        ]
+    },
+    "dn": "CN=HO-DC02-SV,OU=Domain Controllers,DC=hawee,DC=local"
+},{
+    "attributes": {
+        "cn": [
+            "STG-IBOM-SV"
+        ],
+        "dNSHostName": [
+            "Stg-iBom-SV.hawee.local"
+        ],
+        "description": [],
+        "lastLogon": [
+            "2019-03-13 21:03:31.142241+00:00"
+        ],
+        "objectClass": [
+            "top",
+            "person",
+            "organizationalPerson",
+            "user",
+            "computer"
+        ],
+        "objectSid": [
+            "S-1-5-21-2284526575-3220193634-2291435605-1110"
+        ],
+        "operatingSystem": [
+            "Windows Server 2012 R2 Standard"
+        ],
+        "operatingSystemServicePack": [],
+        "operatingSystemVersion": [
+            "6.3 (9600)"
+        ],
+        "sAMAccountName": [
+            "STG-IBOM-SV$"
+        ],
+        "userAccountControl": [
+            4096
+        ],
+        "whenCreated": [
+            "2016-09-10 06:26:47+00:00"
+        ]
+    },
+    "dn": "CN=STG-IBOM-SV,OU=Computers,OU=HWHO,DC=hawee,DC=local"
+},{
+    "attributes": {
+        "cn": [
+            "HO-IBOMDB02-SV"
+        ],
+        "dNSHostName": [
+            "HO-iBomDB02-SV.hawee.local"
+        ],
+        "description": [],
+        "lastLogon": [
+            "2017-10-21 14:02:50.098198+00:00"
+        ],
+        "objectClass": [
+            "top",
+            "person",
+            "organizationalPerson",
+            "user",
+            "computer"
+        ],
+        "objectSid": [
+            "S-1-5-21-2284526575-3220193634-2291435605-1109"
+        ],
+        "operatingSystem": [
+            "Windows Server 2012 R2 Standard"
+        ],
+        "operatingSystemServicePack": [],
+        "operatingSystemVersion": [
+            "6.3 (9600)"
+        ],
+        "sAMAccountName": [
+            "HO-IBOMDB02-SV$"
+        ],
+        "userAccountControl": [
+            4096
+        ],
+        "whenCreated": [
+            "2016-09-10 04:51:11+00:00"
+        ]
+    },
+    "dn": "CN=HO-IBOMDB02-SV,OU=Computers,OU=HWHO,DC=hawee,DC=local"
+},{
+    "attributes": {
+        "cn": [
+            "HO-IBOM02-SV"
+        ],
+        "dNSHostName": [
+            "HO-iBom02-SV.hawee.local"
+        ],
+        "description": [],
+        "lastLogon": [
+            "2017-08-04 15:02:31.153950+00:00"
+        ],
+        "objectClass": [
+            "top",
+            "person",
+            "organizationalPerson",
+            "user",
+            "computer"
+        ],
+        "objectSid": [
+            "S-1-5-21-2284526575-3220193634-2291435605-1108"
+        ],
+        "operatingSystem": [
+            "Windows Server 2012 R2 Standard"
+        ],
+        "operatingSystemServicePack": [],
+        "operatingSystemVersion": [
+            "6.3 (9600)"
+        ],
+        "sAMAccountName": [
+            "HO-IBOM02-SV$"
+        ],
+        "userAccountControl": [
+            4096
+        ],
+        "whenCreated": [
+            "2016-09-10 04:46:30+00:00"
+        ]
+    },
+    "dn": "CN=HO-IBOM02-SV,OU=Computers,OU=HWHO,DC=hawee,DC=local"
+},{
+    "attributes": {
+        "cn": [
+            "HO-IBOMDB01-SV"
+        ],
+        "dNSHostName": [
+            "HO-iBomDB01-SV.hawee.local"
+        ],
+        "description": [],
+        "lastLogon": [
+            "2018-05-16 02:26:36.512054+00:00"
+        ],
+        "objectClass": [
+            "top",
+            "person",
+            "organizationalPerson",
+            "user",
+            "computer"
+        ],
+        "objectSid": [
+            "S-1-5-21-2284526575-3220193634-2291435605-1107"
+        ],
+        "operatingSystem": [
+            "Windows Server 2012 R2 Standard"
+        ],
+        "operatingSystemServicePack": [],
+        "operatingSystemVersion": [
+            "6.3 (9600)"
+        ],
+        "sAMAccountName": [
+            "HO-IBOMDB01-SV$"
+        ],
+        "userAccountControl": [
+            4096
+        ],
+        "whenCreated": [
+            "2016-09-10 04:09:17+00:00"
+        ]
+    },
+    "dn": "CN=HO-IBOMDB01-SV,OU=Computers,OU=HWHO,DC=hawee,DC=local"
+},{
+    "attributes": {
+        "cn": [
+            "HO-IBOM01-SV"
+        ],
+        "dNSHostName": [
+            "HO-iBom01-SV.hawee.local"
+        ],
+        "description": [],
+        "lastLogon": [
+            "2018-06-01 20:53:26.532682+00:00"
+        ],
+        "objectClass": [
+            "top",
+            "person",
+            "organizationalPerson",
+            "user",
+            "computer"
+        ],
+        "objectSid": [
+            "S-1-5-21-2284526575-3220193634-2291435605-1106"
+        ],
+        "operatingSystem": [
+            "Windows Server 2012 R2 Standard"
+        ],
+        "operatingSystemServicePack": [],
+        "operatingSystemVersion": [
+            "6.3 (9600)"
+        ],
+        "sAMAccountName": [
+            "HO-IBOM01-SV$"
+        ],
+        "userAccountControl": [
+            4096
+        ],
+        "whenCreated": [
+            "2016-09-10 03:46:46+00:00"
+        ]
+    },
+    "dn": "CN=HO-IBOM01-SV,OU=Computers,OU=HWHO,DC=hawee,DC=local"
+},{
+    "attributes": {
+        "cn": [
+            "HO-VCENTER-SV"
+        ],
+        "dNSHostName": [
+            "HO-vCenter-SV.hawee.local"
+        ],
+        "description": [],
+        "lastLogon": [
+            "2019-03-12 04:09:17.913372+00:00"
+        ],
+        "objectClass": [
+            "top",
+            "person",
+            "organizationalPerson",
+            "user",
+            "computer"
+        ],
+        "objectSid": [
+            "S-1-5-21-2284526575-3220193634-2291435605-1103"
+        ],
+        "operatingSystem": [
+            "Windows Server 2012 R2 Standard"
+        ],
+        "operatingSystemServicePack": [],
+        "operatingSystemVersion": [
+            "6.3 (9600)"
+        ],
+        "sAMAccountName": [
+            "HO-VCENTER-SV$"
+        ],
+        "userAccountControl": [
+            4096
+        ],
+        "whenCreated": [
+            "2016-09-09 08:51:42+00:00"
+        ]
+    },
+    "dn": "CN=HO-VCENTER-SV,OU=Computers,OU=HWHO,DC=hawee,DC=local"
+},{
+    "attributes": {
+        "cn": [
+            "HO-DC01-SV"
+        ],
+        "dNSHostName": [
+            "HO-DC01-SV.hawee.local"
+        ],
+        "description": [],
+        "lastLogon": [
+            "2019-03-13 19:45:24.226652+00:00"
+        ],
+        "objectClass": [
+            "top",
+            "person",
+            "organizationalPerson",
+            "user",
+            "computer"
+        ],
+        "objectSid": [
+            "S-1-5-21-2284526575-3220193634-2291435605-1000"
+        ],
+        "operatingSystem": [
+            "Windows Server 2012 R2 Standard"
+        ],
+        "operatingSystemServicePack": [],
+        "operatingSystemVersion": [
+            "6.3 (9600)"
+        ],
+        "sAMAccountName": [
+            "HO-DC01-SV$"
+        ],
+        "userAccountControl": [
+            532480
+        ],
+        "whenCreated": [
+            "2016-09-09 08:29:27+00:00"
+        ]
+    },
+    "dn": "CN=HO-DC01-SV,OU=Domain Controllers,DC=hawee,DC=local"
+}]
