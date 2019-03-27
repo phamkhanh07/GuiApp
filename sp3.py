@@ -1,16 +1,21 @@
-import sys
-from os.path import expanduser as ospath
-import xlrd
-from PyQt5.QtWidgets import QDialog, QApplication, QMessageBox, QFileDialog, QInputDialog, QErrorMessage
-from PyQt5 import QtGui, QtCore
-from numpy import unicode
+def exist_User(s, l):
+    # s SAM name
+    # l list user
+    if s in l:
+        return True
+    else:
+        return False
 
-from app import Ui_DomainCreate
-import unicodedata
-import pandas as pd
-from PandaModel import PandasModel
-from getUser import get_user
-import dosmt
+
+def raice_Number(s, l):
+    n = 1
+    while s in l:
+        n += 1
+        name = s.split('.')[0] + str(n) + '.' + s.split('.')[1]
+        if name not in l:
+            name = s.split('.')[0] + str(n) + '.' + s.split('.')[1]
+            return name
+            break
 
 
 def userMacker(srt_Name):

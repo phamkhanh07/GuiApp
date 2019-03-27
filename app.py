@@ -36,7 +36,7 @@ class Ui_DomainCreate(object):
         self.btn_Export.setObjectName("btn_Export")
         self.progressBar = QtWidgets.QProgressBar(DomainCreate)
         self.progressBar.setGeometry(QtCore.QRect(10, 590, 891, 21))
-        self.progressBar.setProperty("value", 24)
+        self.progressBar.setProperty("value", 99)
         self.progressBar.setObjectName("progressBar")
         self.btn_OpenFile = QtWidgets.QPushButton(DomainCreate)
         self.btn_OpenFile.setGeometry(QtCore.QRect(800, 310, 101, 23))

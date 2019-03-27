@@ -19,52 +19,73 @@ class AppWindows(QDialog):
         self.ui = Ui_DomainCreate()
         self.ui.setupUi(self)
 
+        self.file_Path = None  # file excel path
+
         # Button Quit
         self.ui.btn_Quit.clicked.connect(self.close)
 
         # Button help
-        self.ui.btn_help.clicked.connect(self.showDialogs)
+        self.ui.btn_help.clicked.connect(self.show_Dialogs)
 
         # button get user domain
         self.ui.btn_GetDomainUser.clicked.connect(self.getDomainUer)
 
         # Button open file
-        self.ui.btn_OpenFile.clicked.connect(self.selectedFile())
+        self.ui.btn_OpenFile.clicked.connect(self.open_FileClicked)
 
         # Button create user
-        self.ui.btn_CreateNewUser.colorCount(self.create_User)
+        # self.ui.btn_CreateNewUser.colorCount(self.create_User)
 
         self.show()
 
     # Open file dialog
-    def openExcel(self):
-        # fn = filename[0]
-        fb = selectedFile()
+    def open_FileClicked(self):
+        # fn = self.setOpenFileName()[0]
+        self.file_Path = self.set_OpenFileName()
+        fn = self.file_Path[0]
         if dosmt.is_Excel(fn) == True:
             df = pd.read_excel(fn)
             model = PandasModel(df)
             self.ui.tbt_View.setModel(model)
+            self.do = True
+            self.update()
         else:
             mess = QErrorMessage(self)
             mess.setWindowTitle("Notice!!")
             mess.showMessage("Open Excel file only")
 
-    def selectedFile(self):
-        option = QFileDialog.options()
-        option |= QFileDialog.DontUseNativeDialog
-        filename = QFileDialog.getOpenFileNames(self, "Select file", "", "Excel files(.xlsx, .xls)")
-        self.ui.btn_OpenFile = filename
-        return filename
+    def set_OpenFileName(self):
+        fileName = QFileDialog.getOpenFileName(self, 'Open Excel file', filter='*.xls, *xlsx')
+        return fileName
 
-    # get Domain user
-    def getDomainUer(self):
-        get_user()
-
-    # Create new user
+    # create user:
     def create_User(self):
-        user = []  #
+        # get domain user
+        l = dosmt.read_User()
+        c_UserName = []
+        c_Company = []
+        c_Dep = []
+        c_Mobile = []
 
-    def showDialogs(self):
+        # user temp
+        df = pd.read_excel(self.file_Path[0])
+        temp_Name = df['name'].tolist()
+        temp_Company = df['company'].tolist()
+        temp_Dep = df['department'].tolist()
+        temp_Mobile = df['mobile'].tolist()
+
+        for c in temp_Company:
+            c_Company.append(dosmt.company_name(c))
+        for n in temp_Name:
+            c_UserName.append(dosmt.user_Creater(n))
+
+    # get in for from excel file
+    def get_Info(self, path):
+        if self.do:
+            fn = self.setOpenFileName()[0]
+            df = pd.read_excel(fn)
+
+    def show_Dialogs(self):
         help_text = '''
         Step to check:
             1: Press Get Domain user button
