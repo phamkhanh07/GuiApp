@@ -12,14 +12,17 @@ from PyQt5 import QtGui, QtCore
 
 
 # create user domain
-def user_Creater(s, l):
-    temp_User = user_Maker(no_accent(s).lower())
-    if temp_User not in l:
-        user_Domain = temp_User
-        return user_Domain
+def user_creator(s, l):
+    temp_user = user_maker(no_accent(s).lower())
+    if temp_user not in l:
+        user_domain = temp_user
+        return user_domain
     else:
-        user_Domain = add_Number(temp_User, l)
-        return user_Domain
+        user_domain = add_number(temp_user, l)
+        return user_domain
+
+
+# show error
 
 
 # remove vietnamese accent
@@ -31,7 +34,7 @@ def no_accent(s):
 
 
 # Check file is Excel file
-def is_Excel(path):
+def is_excel(path):
     suff = Path(path).suffix
     if suff == '.xlsx' or suff == '.xls':
         return True
@@ -57,7 +60,7 @@ def rm_file(file):
 
 
 # run window command
-def run_CMD(cmd):
+def run_cmd(cmd):
     result = []
     process = subprocess.Popen(cmd,
                                shell=True,
@@ -72,37 +75,36 @@ def run_CMD(cmd):
         raise Exception('cmd %s failed, see above for details', cmd)
 
 
-# make company name
-def company_name(s):
-    if s == 'HWIDC':
-        return "Hawee.IDC"
-    if s == "HWPT":
-        return "Hawee.PT"
-    if s == "HWME":
-        return "Hawee.ME"
-    else:
-        return "Check Company name!"
-
-
+# this list will updating
 # make department name
-def departmant_Name(s):
-    return None
+def map_name(dept_name):
+    path = os.getcwd() + r"\Departments.xlsx"
+    if not path:
+        print('File not exist!')
+    else:
+        df = pd.read_excel(path)
+        find = df.loc[df['Phòng'].lower() == dept_name.lower()]
+        sort_name = find['Viết tắt'].values[0]
+        return sort_name
 
 
 # read user from json to list
-def read_User():
+def read_user():
     user_list = []
     file_Path = os.getcwd() + r"\DUMP\domain_users.json"
-    if 'DUMP' in os.listdir(os.getcwd()):
-        data = pd.read_json(file_Path)
-        cl = data.loc[:, 'attributes']
-        for line in cl:
-            user_list.append(str(line['sAMAccountName']).replace("'", "").replace("[", "").replace("]", ""))
-    return user_list
+    if file_Path:
+        if 'DUMP' in os.listdir(os.getcwd()):
+            data = pd.read_json(file_Path)
+            cl = data.loc[:, 'attributes']
+            for line in cl:
+                user_list.append(str(line['sAMAccountName']).replace("'", "").replace("[", "").replace("]", ""))
+        return user_list
+    else:
+        print('file not exist!')
 
 
 # add number to user when user in list
-def add_Number(s, l):
+def add_number(s, l):
     n = 1
     while s in l:
         n += 1
@@ -110,44 +112,51 @@ def add_Number(s, l):
         if name not in l:
             name = s.split('.')[0] + str(n) + '.' + s.split('.')[1]
             return name
-            break
+
+
+def add_mail(s):
+    if s:
+        s = s + '@hawee.com.vn'
+        return s
+    else:
+        return None
 
 
 # create new user flow company name format
-def user_Maker(srt_Name):
+def user_maker(srt_name):
     # srt is full name, lower and no accent
     converted_name = []
-    list_Str = srt_Name.split()
+    list_str = srt_name.split()
 
-    if len(list_Str) <= 2:
-        first_Name = list_Str[-1]
-        last_Name = list_Str[0]
+    if len(list_str) <= 2:
+        first_name = list_str[-1]
+        last_name = list_str[0]
         converted_name.clear()
-        converted_name.insert(0, first_Name)
+        converted_name.insert(0, first_name)
         converted_name.insert(1, '.')
-        converted_name.insert(2, last_Name)
+        converted_name.insert(2, last_name)
         name = ''.join(str(x) for x in converted_name)
         return name
     else:
-        if str(list_Str[-1]) == 'anh':
-            first_Name = list_Str[-1]
-            mid_name = list_Str[-2]
-            last_Name = list_Str[0]
+        if str(list_str[-1]) == 'anh':
+            first_name = list_str[-1]
+            mid_name = list_str[-2]
+            last_name = list_str[0]
             converted_name.clear()
-            converted_name.insert(1, first_Name)
+            converted_name.insert(1, first_name)
             converted_name.insert(0, mid_name)
             converted_name.insert(2, '.')
-            converted_name.insert(3, last_Name)
+            converted_name.insert(3, last_name)
             name = ''.join(str(x) for x in converted_name)
             return name
         else:
-            first_Name = list_Str[-1]
-            last_Name = list_Str[0]
-            mid_name = list_Str[1]
+            first_name = list_str[-1]
+            last_name = list_str[0]
+            mid_name = list_str[1]
             converted_name.clear()
-            converted_name.insert(0, first_Name)
+            converted_name.insert(0, first_name)
             converted_name.insert(1, '.')
             converted_name.insert(3, mid_name)
-            converted_name.insert(2, last_Name)
+            converted_name.insert(2, last_name)
             name = ''.join(str(x) for x in converted_name)
             return name

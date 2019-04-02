@@ -20,6 +20,7 @@ class AppWindows(QDialog):
         self.ui.setupUi(self)
 
         self.file_Path = None  # file excel path
+        self.file_name = None  # dataframe
 
         # Button Quit
         self.ui.btn_Quit.clicked.connect(self.close)
@@ -28,13 +29,13 @@ class AppWindows(QDialog):
         self.ui.btn_help.clicked.connect(self.show_Dialogs)
 
         # button get user domain
-        self.ui.btn_GetDomainUser.clicked.connect(self.getDomainUer)
+        # self.ui.btn_GetDomainUser.clicked.connect(self.getDomainUer)
 
         # Button open file
         self.ui.btn_OpenFile.clicked.connect(self.open_FileClicked)
 
         # Button create user
-        # self.ui.btn_CreateNewUser.colorCount(self.create_User)
+        self.ui.btn_CreateNewUser.clicked.connect(self.crear_user_domain)
 
         self.show()
 
@@ -42,13 +43,10 @@ class AppWindows(QDialog):
     def open_FileClicked(self):
         # fn = self.setOpenFileName()[0]
         self.file_Path = self.set_OpenFileName()
-        fn = self.file_Path[0]
-        if dosmt.is_Excel(fn) == True:
-            df = pd.read_excel(fn)
-            model = PandasModel(df)
-            self.ui.tbt_View.setModel(model)
-            self.do = True
-            self.update()
+        self.file_name = self.file_Path[0]
+        if dosmt.is_excel(self.file_name) == True:
+            df = pd.read_excel(self.file_name)
+            self.load_df(df)
         else:
             mess = QErrorMessage(self)
             mess.setWindowTitle("Notice!!")
@@ -58,32 +56,27 @@ class AppWindows(QDialog):
         fileName = QFileDialog.getOpenFileName(self, 'Open Excel file', filter='*.xls, *xlsx')
         return fileName
 
-    # create user:
-    def create_User(self):
-        # get domain user
-        l = dosmt.read_User()
-        c_UserName = []
-        c_Company = []
-        c_Dep = []
-        c_Mobile = []
+    # create domain user
+    def crear_user_domain(self):
+        user_domain= dosmt.read_user()
+        new_userdomain = []
+        new_email = []
+        df = pd.read_excel(self.file_name)
+        for u in df['name']:
+            new_userdomain.append(dosmt.add_number(dosmt.user_maker(dosmt.no_accent(u).lower()), user_domain))
+        df['User Domain'] = new_userdomain
+        for u in new_userdomain:
+            new_email.append(dosmt.add_mail(u))
+        df['Email'] = new_email
+        self.load_df(df)
 
-        # user temp
-        df = pd.read_excel(self.file_Path[0])
-        temp_Name = df['name'].tolist()
-        temp_Company = df['company'].tolist()
-        temp_Dep = df['department'].tolist()
-        temp_Mobile = df['mobile'].tolist()
 
-        for c in temp_Company:
-            c_Company.append(dosmt.company_name(c))
-        for n in temp_Name:
-            c_UserName.append(dosmt.user_Creater(n))
-
-    # get in for from excel file
-    def get_Info(self, path):
-        if self.do:
-            fn = self.setOpenFileName()[0]
-            df = pd.read_excel(fn)
+    # load df tbt_View:
+    def load_df(self, df):
+        mode = PandasModel(df)
+        self.ui.tbt_View.setModel(mode)
+        self.do = True
+        self.update()
 
     def show_Dialogs(self):
         help_text = '''
